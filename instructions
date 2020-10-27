@@ -1,0 +1,12 @@
+Terminal:
+cd Desktop/Kiki/MY\ PROJECTS/etnobalans-gatsby     
+gatsby develop
+
+(to quit press ctrl+c)
+
+
+Open in browser: http://localhost:8000/
+
+
+
+Downloaded from: https://github.com/thundermiracle/gatsby-startbootstrap-agency
