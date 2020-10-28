@@ -1,14 +1,8 @@
 module.exports = {
   title: "EtnoBalans",
   keywords: [
-    "gatsby",
-    "gatsbyjs",
-    "landing page",
-    "landing",
-    "i18n",
-    "eslint",
-    "bootstrap",
-    "startbootstrap-agency",
+    "etnobalans",
+    "dance studio"
   ],
   description: "Strona społeczności EtnoBalans.",
   author: "Magdalena Mak-Jeszka",
