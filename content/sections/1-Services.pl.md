@@ -1,7 +1,7 @@
 ---
 anchor: "Oferta"
 header: "Oferta"
-subheader: "W czym jesteśmy dobrzy i gotowi do podzielenia z Tobą."
+subheader: "Dzielimy się z Tobą tym, w czym jesteśmy dobrzy."
 services: [
   {
     imageFileName: "services/service1.png",

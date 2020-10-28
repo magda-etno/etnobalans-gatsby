@@ -1,7 +1,7 @@
 ---
 anchor: "Aktualności"
 header: "Aktualności"
-subheader: "Trwające lub nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty. Chwilowo część z nich odbywa się online."
+subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty. Chwilowo część z nich odbywa się online."
 portfolios: [
   {
     imageFileName: "recents/recents1.jpg",

@@ -6,11 +6,11 @@ clients: [
   }, 
   {
     imageFileName: "logos/RDS.png",
-    href: "#!"
+    href: "http://retrodancestudio.pl/"
   },
   {
     imageFileName: "logos/FKI.png",
-    href: "#!"
+    href: "http://www.fki.home.pl/"
   },
 ]
 ---

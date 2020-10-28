@@ -40,7 +40,7 @@ timeline: [
     content: "The COVID-19 pandemic provides us with new challenges and we start to meet in virtual space as well, in order to be able to sustain the dance vibrations."
   },
   {
-    imageContent: "Create new\r\nchapters\r\nwith us!"
+    imageContent: "Create\r\nstory\r\nwith us!"
   }
 ]
 ---

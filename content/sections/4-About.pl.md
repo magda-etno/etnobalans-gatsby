@@ -40,7 +40,7 @@ timeline: [
     content: "Pandemia COVID-19 stawia przed nami nowe wyzwania i zaczynamy spotykać się także w przestrzeni wirtualnej, aby móc podtrzymywać taneczne wibracje."
   },
   {
-    imageContent: "Twórz z nami\r\nkolejne\r\nrozdziały!"
+    imageContent: "Twórz\r\nz nami\r\nopowieść!"
   }
 ]
 ---
