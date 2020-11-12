@@ -5,7 +5,7 @@ subheader: "Jak rozwijała się nasza społeczność?"
 timeline: [
   {
     imageFileName: "about/about1.jpg",
-    header: "2005-2012",
+    header: "2005 - 2012",
     subheader: "Początki",
     content: "Taniec irlandzki w Poznaniu rozwija się w ramach szkoły tańca irlandzkiego ISTA stowarzyszonej z Komisją Tańca Irlandzkiego w Dublinie oraz zespołu Celtica."
   },
@@ -23,13 +23,13 @@ timeline: [
   },
   {
     imageFileName: "about/about4.jpg",
-    header: "2015-2017",
+    header: "2015 - 2017",
     subheader: "Przestrzeń artystyczna",
     content: "Przestrzeń EtnoBalans powiększa gabaryty i gości różnorodne projekty artystyczne, warsztaty muzyczne i wokalne, warsztaty pracy z ciałem, potańcówki, performance, warsztaty plastyczne..."
   },
   {
     imageFileName: "about/about5.jpg",
-    header: "2017-2020",
+    header: "2017 - 2020",
     subheader: "Ponownie wolne ptaki",
     content: "Magda rozpoczyna nową przygodę życiową w Berlinie i przekazuje przestrzeń na Wielkiej przyjaciołom. Nasza społeczność trenuje dalej, wyłaniają się nowe instruktorki prowadzące regularne zajęcia oraz zespół tańca irlandzkiego Sheemore."
   },
