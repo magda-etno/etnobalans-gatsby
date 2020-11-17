@@ -78,7 +78,11 @@ const SEO = ({ lang, description, meta, keywords, title }) => {
         )
         .concat(meta)}
     >
+      <link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet" />
     </Helmet>
   );
 };
