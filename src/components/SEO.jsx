@@ -77,7 +77,9 @@ const SEO = ({ lang, description, meta, keywords, title }) => {
             : [],
         )
         .concat(meta)}
-    />
+    >
+      <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet" />
+    </Helmet>
   );
 };
 
