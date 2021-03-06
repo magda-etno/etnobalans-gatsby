@@ -4,9 +4,10 @@ gatsby develop
 
 (to quit press ctrl+c)
 
-
 Open in browser: http://localhost:8000/
 
-
-
 Downloaded from: https://github.com/thundermiracle/gatsby-startbootstrap-agency
+
+Source control (drzewko) po lewej, Commit changes adding a message
+
+Netlify.com - check if it is building

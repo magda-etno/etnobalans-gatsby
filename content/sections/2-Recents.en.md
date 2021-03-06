@@ -3,6 +3,18 @@ anchor: "Recents"
 header: "Recents"
 subheader: "Ongoing or upcoming regular activities, workshops, events, projects. Some of them take place online for a while."
 portfolios: [
+  {
+    imageFileName: "recents/recents6.jpg",
+    imageFileNameDetail: "recents/recents6.jpg",
+    header: "Emerald Céilí",
+    subheader: "Irish house party online on St. Patrick's Day",
+    content: "According to the annual tradition St. Patrick's Day cannot take place without an Irish dance, even the pandemic will not stop us! The program includes dance animations for total beginners, intriguing workshops for those already dancing, stories about dance and music, a meeting with the Irish Ambassador and a concert of Irish music.",
+    extraInfo: ["DATE: 20th March 2021, 18:30-22:00","PLACE: Zoom + live stream via Youtube"],
+    link: {
+      url: "https://app.evenea.pl/event/200321/",
+      text: "REGISTER"
+    }
+  },
     {
     imageFileName: "recents/recents5.jpg",
     imageFileNameDetail: "recents/recents5.jpg",

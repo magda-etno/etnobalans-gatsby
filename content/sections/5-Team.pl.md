@@ -26,6 +26,16 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
+    header: "Magdalena Pochrząszcz",
+    subheader: "Grafik do zadań specjalnych",
+    social: {
+      twitter: "",
+      facebook: "",
+      linkedin: ""
+    }
+  },
+  {
+    imageFileName: "team/4.jpg",
     header: "Anna Wawrzyniak",
     subheader: "Instruktor",
     social: {
@@ -35,7 +45,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/4.jpg",
+    imageFileName: "team/5.jpg",
     header: "Dorota Grobelna",
     subheader: "Instruktor",
     social: {

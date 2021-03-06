@@ -4,6 +4,18 @@ header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty. Chwilowo część z nich odbywa się online."
 portfolios: [
   {
+    imageFileName: "recents/recents6.jpg",
+    imageFileNameDetail: "recents/recents6.jpg",
+    header: "Szmaragdowe Céilí",
+    subheader: "irlandzka domówka taneczna online w Dni Św. Patryka",
+    content: "Zgodnie z coroczną tradycją dni św. Patryka nie mogą odbyć się bez irlandzkiej potańcówki, nawet pandemia nas nie powstrzyma! W planie imprezy animacje taneczne dla totalnie początkujących, intrygujące warsztaty dla już tańczących, opowieści o tańcu i muzyce, spotkanie z panią Ambasador Irlandii oraz koncert muzyki irlandzkiej.",
+    extraInfo: ["KIEDY: 20 marca 2021, 18:30-22:00","GDZIE: Zoom + live stream przez Youtube"],
+    link: {
+      url: "https://app.evenea.pl/event/200321/",
+      text: "REJESTRACJA"
+    }
+  },
+  {
     imageFileName: "recents/recents5.jpg",
     imageFileNameDetail: "recents/recents5.jpg",
     header: "Bądź poruszon :)",
