@@ -1,5 +1,5 @@
 Terminal:
-cd Desktop/Kiki/MY\ PROJECTS/etnobalans-gatsby     
+cd ~/Desktop/KikiMokoro/MY\ PROJECTS/etnobalans-gatsby     
 gatsby develop
 
 (to quit press ctrl+c)
@@ -8,6 +8,6 @@ Open in browser: http://localhost:8000/
 
 Downloaded from: https://github.com/thundermiracle/gatsby-startbootstrap-agency
 
-Source control (drzewko) po lewej, Commit changes adding a message
+Source control (drzewko) po lewej, Commit changes adding a message, Push
 
 Netlify.com - check if it is building
