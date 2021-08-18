@@ -3,7 +3,31 @@ anchor: "Portfolio"
 header: "Portfolio"
 subheader: "Selected projects that we created and participated in."
 portfolios: [
-  {
+{
+    imageFileName: "portfolio/back to myself.jpg",
+    imageFileNameDetail: "portfolio/back to myself.jpg",
+    header: "Back to myself",
+    subheader: "artistic project promoting mental health",
+    content: "On 17th-22nd July 2021, 9 women from quite different worlds met in the project 'Back to myself'. All of them craving a safe space to talk, cry, share emotions, be heard, move and be moved.Throughout the six project days connection and beauty and great respect for all this character diversity happened. Sometimes all it takes to initiate healing processes is tenderness, openness and a willingness to see the other person. The project resulted in the video that we want to share with you all, show it to the world, widely.",
+    extraInfo: ["Because we know that mental health is often a taboo subject.","Because we see that it is often embarrassing.","Because we notice that it is not always easy to talk about it.","Because we feel that taming it can change a lot.","Because we are experiencing that resilience is often just within reach."],
+    link: {
+      url: "https://youtu.be/yKakVvDejN0",
+      text: "WATCH THE VIDEO"
+    }
+  },
+      {
+    imageFileName: "portfolio/szmaragdowe ceili online.jpg",
+    imageFileNameDetail: "portfolio/szmaragdowe ceili online.jpg",
+    header: "Emerald Céilí '21",
+    subheader: "Irish dance online party on St. Patrick's Day",
+    content: "Pandemia nas nie powstrzymała przed organizacją corocznej potańcówki patrykowej! Co więcej, zainspirowała do zrobienia imprezy na skalę ogólnopolską, w sieci. Podczas Szmaragdowego Céilí online miały miejsce animacje taneczne dla totalnie początkujących, intrygujące warsztaty dla już tańczących, opowieści o tańcu i muzyce, spotkanie z panią Ambasador Irlandii oraz koncert muzyki irlandzkiej.",
+    extraInfo: ["Wydarzenie miało miejsce 20 marca 2021, 18:30-22:00"],
+    link: {
+      url: "https://youtu.be/R8LNH-Z7cTw",
+      text: "OBEJRZYJ RELACJĘ"
+    }
+  },
+    {
     imageFileName: "portfolio/heart&Sole.jpg",
     imageFileNameDetail: "portfolio/heart&Sole.jpg",
     header: "Heart & Sole",

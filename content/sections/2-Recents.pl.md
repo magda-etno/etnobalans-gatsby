@@ -1,27 +1,15 @@
 ---
 anchor: "Aktualności"
 header: "Aktualności"
-subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty. Chwilowo część z nich odbywa się online."
+subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
-  {
-    imageFileName: "recents/recents6.jpg",
-    imageFileNameDetail: "recents/recents6.jpg",
-    header: "Szmaragdowe Céilí",
-    subheader: "irlandzka domówka taneczna online w Dni Św. Patryka",
-    content: "Zgodnie z coroczną tradycją dni św. Patryka nie mogą odbyć się bez irlandzkiej potańcówki, nawet pandemia nas nie powstrzyma! W planie imprezy animacje taneczne dla totalnie początkujących, intrygujące warsztaty dla już tańczących, opowieści o tańcu i muzyce, spotkanie z panią Ambasador Irlandii oraz koncert muzyki irlandzkiej.",
-    extraInfo: ["KIEDY: 20 marca 2021, 18:30-22:00","GDZIE: Zoom + live stream przez Youtube"],
-    link: {
-      url: "https://app.evenea.pl/event/200321/",
-      text: "REJESTRACJA"
-    }
-  },
   {
     imageFileName: "recents/recents5.jpg",
     imageFileNameDetail: "recents/recents5.jpg",
     header: "Bądź poruszon :)",
     subheader: "spotkania ogólnoruchowe dla tancerzy",
     content: "Sesje (na razie on-line) ruchowe/ruchome/ruchliwe/ruchawe/poruszające/rozruszające oparte o takie praktyki jak joga, pilates, Body-Mind Centering®, Franklin Method® czy inspiracje zaczerpnięte z technik tańca współczesnego. Spotkania są organizowane z myślą o osobach, które tańczą i chcą uważniej posłuchać potrzeb swojego ciała, aby móc cieszyć się z jego użytkowania jak najdłużej, nie tylko na parkiecie. Osoby podające się za nie tańczące również będą mile widziane. ",
-    extraInfo: ["sesje odbywają się w grupie prywatnej na Facebooku - 'EtnoBalans się porusza' oraz/lub na Google Meets lub Zoom","płatność od serca <3", "obowiązują zapisy przez formularz"],
+    extraInfo: ["sesje odbywały się do tej pory w grupie prywatnej na Facebooku - 'EtnoBalans się porusza' - zachęcamy do dołączenia do grupy, ponieważ możecie tam znaleźć stare sesje i poćwiczyć, kiedy chcecie","od końca października planujemy robić sesje na żywo, jeśli tylko będzie taka możliwość i wirus nie pokrzyżuje planów","płatność od serca <3", "obowiązują zapisy przez formularz"],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSeWjguu1L8ikbrG4LeId_xgu9ym7Pz6fOtw5V-86AJW6rolzw/viewform",
       text: "ZAPISZ SIĘ - kliknij"
@@ -58,18 +46,6 @@ portfolios: [
     subheader: "zajęcia regularne",
     content: "Nasze zajęcia stepowania to: zróżnicowane klimaty muzyczne, intrygujące kroki, zachęta do kreatywności i improwizacji i przyjazna społeczność. Podczas zajęć regularnych skupiamy się na technice tańca oraz improwizacji.",
     extraInfo: ["Poziomy zajęć: początkujący-średniozaawansowany", "Od stycznia 2021 nie prowadzimy live streamów ani zajęć na żywo. Dysponujemy materiałami video, które możemy Wam udostępnić w razie zainteresowania. Trzymajcie jednak rękę na pulsie, bo niebawem wracamy!"],
-    link: {
-      url: "",
-      text: ""
-    }
-  },
-  {
-    imageFileName: "recents/recents4.jpg",
-    imageFileNameDetail: "recents/recents4.jpg",
-    header: "Tap dance",
-    subheader: "grupa choreograficzna",
-    content: "Grupa przeznaczona dla osób z przynajmniej 2-letnim doświadczeniem chcących pracować nad repertuarem choreograficznym (tradycyjnym i autorskim) i będących otwartymi na mniejsze lub większe pokazy sceniczne.",
-    extraInfo: ["W związku z obostrzeniami sanitarnymi od połowy października 2020 do odwołania zawieszamy działalność grupy, mając nadzieję na szybki powrót na parkiet."],
     link: {
       url: "",
       text: ""

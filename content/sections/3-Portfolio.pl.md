@@ -3,6 +3,31 @@ anchor: "Galeria"
 header: "Galeria"
 subheader: "Wybrane projekty, które tworzyliśmy i w których braliśmy udział."
 portfolios: [
+{
+    imageFileName: "portfolio/back to myself.jpg",
+    imageFileNameDetail: "portfolio/back to myself.jpg",
+    header: "Z powrotem u siebie",
+    subheader: "projekt artystyczny promujący temat zdrowia psychicznego",
+    content: "W dniach 17-22 lipca 2021 w ramach projektu 'Z powrotem u siebie' spotkało się 9 kobiet z bardzo różnych światów. Wszystkie spragnione bezpiecznej przestrzeni do mówienia, płakania, dzielenia się emocjami, bycia wysłuchanymi, ruszania się i bycia poruszanymi. Zadziało się połączenie i piękno oraz ogromny szacunek dla tej całej różnorodności charakterologicznej. Czasem jedyne, czego trzeba, by zapoczątkować procesy leczenia, to czułość, otwartość i gotowość do zobaczenia drugiego człowieka.
+Podczas projektu narodził się klip, którym chcemy się z Wami podzielić, pokazać światu, szeroko.  ",
+    extraInfo: ["PONIEWAŻ wiemy, że temat zdrowia psychicznego to często temat tabu.","PONIEWAŻ widzimy, że często bywa wstydliwy.","PONIEWAŻ zauważamy, że nie zawsze łatwo o nim mówić.","PONIEWAŻ czujemy, że jego oswojenie może wiele zmienić.","PONIEWAŻ doświadczamy, że umiejętność podtrzymywania swojej odporności na zawirowania życia jest często na wyciągnięcie ręki."],
+    link: {
+      url: "https://youtu.be/yKakVvDejN0",
+      text: "ZOBACZ KLIP"
+    }
+  },
+    {
+    imageFileName: "portfolio/szmaragdowe ceili online.jpg",
+    imageFileNameDetail: "portfolio/szmaragdowe ceili online.jpg",
+    header: "Szmaragdowe Céilí '21",
+    subheader: "irlandzka domówka taneczna online w Dni Św. Patryka",
+    content: "Pandemia nas nie powstrzymała przed organizacją corocznej potańcówki patrykowej! Co więcej, zainspirowała do zrobienia imprezy na skalę ogólnopolską, w sieci. Podczas Szmaragdowego Céilí online miały miejsce animacje taneczne dla totalnie początkujących, intrygujące warsztaty dla już tańczących, opowieści o tańcu i muzyce, spotkanie z panią Ambasador Irlandii oraz koncert muzyki irlandzkiej.",
+    extraInfo: ["Wydarzenie miało miejsce 20 marca 2021, 18:30-22:00"],
+    link: {
+      url: "https://youtu.be/R8LNH-Z7cTw",
+      text: "OBEJRZYJ RELACJĘ"
+    }
+  },
   {
     imageFileName: "portfolio/heart&Sole.jpg",
     imageFileNameDetail: "portfolio/heart&Sole.jpg",
