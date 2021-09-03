@@ -3,7 +3,43 @@ anchor: "Recents"
 header: "Recents"
 subheader: "Ongoing or upcoming regular activities, workshops, events, projects."
 portfolios: [
-    {
+  {
+    imageFileName: "recents/recents2.jpg",
+    imageFileNameDetail: "recents/recents2.jpg",
+    header: "Irish dance",
+    subheader: "regular classes from 7th Oct 2021",
+    content: "On 7th October 2021 we are starting another series of regular classes in the contemporary style of Irish soft shoe dance and step dancing will begin. Our classes include: great music, intriguing steps, encouraging creativity, supporting fitness and a friendly community.",
+    extraInfo: ["POINTMAKERS BEGINNERS+ - Fridays | 19:00-20:30","POINTMAKERS INTERMEDIATE - Thursdays | 20:30-22:00", " TREBLEMAKERS INTERMEDIATE - Fridays | 17:30-19:00",  "Register deadline - 26th September 2021! Remember, it's a good idea to hurry up because places in the class are limited due to you know what.", "Organizational details can be found in the registration form below."],
+    link: {
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSe9lV6ik42Eip1yTu7flVgTiN4ZWDc1CuD1A4nGyCCmYHOmgA/viewform",
+      text: "REGISTER - click"
+    }
+  },
+      {
+    imageFileName: "recents/recents6.jpg",
+    imageFileNameDetail: "recents/recents6.jpg",
+    header: "Irish dance - beginners",
+    subheader: "weekend workshops Oct-Dec 2021",
+    content: "We invite all of you who have been waiting for a long time for our Irish dancing classes FROM ZERO TO HERO! Our offer for this Autumn are weekend workshops in 3 rounds, after which you will have a pretty good idea about Irish dancing and you will decide whether you want to continue the adventure in regular classes. During each class we will learn a new set of steps, so you can come to selected classes without worrying that you won't know what it's all about. However, we encourage you to attend the entire series to get the most out of your opportunity to learn the basics of this particular but beautiful dance.",
+    extraInfo: ["DATES: 9-10th October, 6-7th November, 4-5th December","GROUPS: 11:30-13:00 - soft shoes, 13:15-14:45 - heavy shoes ","WHERE: School of Tai Chi Jadeit, ul. Bastionowa 47 (Cytadela Park)", "INVESTMENT: 35 zł - drop-in 1,5 h, 180 zł - 6 classes pass, 300 zł - 12 classes pass", "REGISTRATION: deadline 30th September, registration only via form below"],
+    link: {
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfMu8cXvURqpqCs8bQLYhl1rP8Xd3NGx31BYrUIT4Ypn3P3yg/viewform",
+      text: "REGISTER - click"
+    }
+  },
+      {
+    imageFileName: "recents/recents7.jpg",
+    imageFileNameDetail: "recents/recents7.jpg",
+    header: "Irish boot :)",
+    subheader: "weekend workshops 16-17th Oct 2021",
+    content: "It's time to dig out the shoes, leggings and T-shirts from the closet and get on the dance floor. The workshop is organized for all the souls who know the basics of Irish dancing, to give you a gentle start. We will be based on familiar steps, so as not to overload your brains;P, but we will play with space, look for optimal movement patterns, focus on rhythmics. And additionally on Saturday we will do some general development to feel our bodies better.",
+    extraInfo: ["16TH OCTOBER: 11:30-12:30 - soft shoes beginner+, 12:30-13:30 - strengthening, loosening, working on stability and mobility, 13:45-14:45 - soft shoes intermediate","17TH OCTOBER: 11:30-12:45 - step beginner+, 12:45-14:00 - step intermediate","WHERE: School of Tai Chi Jadeit, ul. Bastionowa 47 (Cytadela Park)", "INVESTMENT: 20 zł - drop-in, 50 zł / 3 classes and more pass", "REGISTRATION: deadline - 8th October, only via form below"],
+    link: {
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSczblzkd5VzxPWmTSeVWso7bMHfmTukwVRMFJnFjeBPmpZCnw/viewform",
+      text: "REGISTER - click"
+    }
+  },
+      {
     imageFileName: "recents/recents5.jpg",
     imageFileNameDetail: "recents/recents5.jpg",
     header: "Be moved :)",
@@ -25,18 +61,6 @@ portfolios: [
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSfCybEo-Q1zncXZh790nRwNnjkVkOgQhUCrPEGQzW-jJ1E_HA/viewform",
       text: "INFO AND REGISTRATION - click"
-    }
-  },
-  {
-    imageFileName: "recents/recents2.jpg",
-    imageFileNameDetail: "recents/recents2.jpg",
-    header: "Irish dance",
-    subheader: "regular classes",
-    content: "As part of our regular classes we lead groups of contemporary Irish dance style, both soft shoes and heavy shoes. Our classes means: great music, intriguing steps, encouraging creativity, supporting fitness and friendly community. ",
-    extraInfo: ["Starting from January 2021, we are organising small meetings in the dance studio, being aware of the hygiene and sanitation restrictions. ", "Wednesdays | 17:30-19:00 - intermediate/basic pointmakers", "Wednesdays | 19:00-20:30 - beginners/beginners+ pointmakers", "Fridays | 17:30-19:00 - intermediate treblemakers", "Registration and information: magda@etnobalans.pl"],
-    link: {
-      url: "",
-      text: ""
     }
   },
   {
