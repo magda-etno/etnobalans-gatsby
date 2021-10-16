@@ -54,5 +54,15 @@ teamMember: [
       medium: ""
     }
   },
+    {
+    imageFileName: "team/6.png",
+    header: "Kalina Kolasińska",
+    subheader: "Instructor",
+    social: {
+      twitter: "",
+      facebook: "",
+      medium: ""
+    }
+  },
 ]
 ---
