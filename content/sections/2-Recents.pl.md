@@ -21,7 +21,7 @@ portfolios: [
     header: "Taniec irlandzki od zera",
     subheader: "warsztaty weekendowe paź-gru 2021",
     content: "Zapraszamy wszystkich, którzy już długo czekali na nasze zajęcia tańca irlandzkiego OD ZERA! Nasza propozycja na jesień to warsztaty weekendowe w 3 rundach, po których będziecie mieli całkiem sporo pojęcia o tańcu irlandzkim i zdecydujecie, czy chcecie kontynuować przygodę w ramach regularnych zajęć. Podczas każdych zajęć będziemy uczyć się nowego zestawu kroków, więc można przybywać na wybrane zajęcia bez obawy, że nie będziecie wiedzieć, o co chodzi. Zachęcamy jednak do udziału w całym cyklu, aby jak najpełniej skorzystać z okazji do zdobycia podstaw tego specyficznego, ale jakże pięknego tańca.  ",
-    extraInfo: ["DATY: 9-10 października, 6-7 listopada, 4-5 grudnia","GRUPY: 11:30-13:00 - taniec irlandzki soft shoes (miękkie buty), 13:15-14:45 - step irlandzki ","MIEJSCE: Szkoła Tai Chi Jadeit, ul. Bastionowa 47 (na terenie Cytadeli)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY: do 30 września tylko przez poniższy formularz"],
+    extraInfo: ["DATY: 9-10 października, 6-7 listopada, 4-5 grudnia","GRUPY: 11:30-13:00 - taniec irlandzki soft shoes (miękkie buty), 13:15-14:45 - step irlandzki ","MIEJSCE: Szkoła Tai Chi Jadeit, ul. Bastionowa 47 (na terenie Cytadeli)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY tylko przez poniższy formularz"],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSfMu8cXvURqpqCs8bQLYhl1rP8Xd3NGx31BYrUIT4Ypn3P3yg/viewform",
       text: "ZAPISZ SIĘ - kliknij"

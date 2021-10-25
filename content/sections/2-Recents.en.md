@@ -21,7 +21,7 @@ portfolios: [
     header: "Irish dance - beginners",
     subheader: "weekend workshops Oct-Dec 2021",
     content: "We invite all of you who have been waiting for a long time for our Irish dancing classes FROM ZERO TO HERO! Our offer for this Autumn are weekend workshops in 3 rounds, after which you will have a pretty good idea about Irish dancing and you will decide whether you want to continue the adventure in regular classes. During each class we will learn a new set of steps, so you can come to selected classes without worrying that you won't know what it's all about. However, we encourage you to attend the entire series to get the most out of your opportunity to learn the basics of this particular but beautiful dance.",
-    extraInfo: ["DATES: 9-10th October, 6-7th November, 4-5th December","GROUPS: 11:30-13:00 - soft shoes, 13:15-14:45 - heavy shoes ","WHERE: School of Tai Chi Jadeit, ul. Bastionowa 47 (Cytadela Park)", "INVESTMENT: 35 zł - drop-in 1,5 h, 180 zł - 6 classes pass, 300 zł - 12 classes pass", "REGISTRATION: deadline 30th September, registration only via form below"],
+    extraInfo: ["DATES: 9-10th October, 6-7th November, 4-5th December","GROUPS: 11:30-13:00 - soft shoes, 13:15-14:45 - heavy shoes ","WHERE: School of Tai Chi Jadeit, ul. Bastionowa 47 (Cytadela Park)", "INVESTMENT: 35 zł - drop-in 1,5 h, 180 zł - 6 classes pass, 300 zł - 12 classes pass", "REGISTRATION only via form below"],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSfMu8cXvURqpqCs8bQLYhl1rP8Xd3NGx31BYrUIT4Ypn3P3yg/viewform",
       text: "REGISTER - click"
