@@ -15,6 +15,18 @@ portfolios: [
       text: "SZCZEGÓŁY"
     }
   },  
+      {
+    imageFileName: "recents/recents9.jpg",
+    imageFileNameDetail: "recents/recents9.jpg",
+    header: "Czy Ty mnie w ogóle słuchasz?...",
+    subheader: "warsztat ruchowy dla kobiet, sty 2022",
+    content: "Być wysłuchanym, to być zauważonym. Podzielenie się swoją opowieścią z nieoceniającą nas, akceptującą i współczującą osobą bywa prawdziwie terapeutycznym, potrafiącym uleczyć duszę doświadczeniem. Zbyt wiele z nas milczy. Ze strachu, stresu, braku świadomości, bezradności, świadomości bycia ocenianym lub zwyczajnie z braku osób, które są gotowe nas wysłuchać. Naszym projektem chcemy stymulować, szczególnie wśród kobiet, gotowość zarówno do uważnego słuchania, jak i korzystania z własnego głosu.",
+    extraInfo: ["projekt przygotowany wspólnie z poruszajacestudio.pl", "weekendowy warsztat dla kobiet, którego głównym tematem jest doskonalenie sztuki słuchania oraz stwarzanie przestrzeni do bycia wysłuchanym","świadoma praca z ciałem, poprzez którą chcemy zainicjować procesy ekspresji głębiej schowanych emocji, niewypowiedzianych dotychczas słów, nieprzekazanych myśli, historii spychanych do zakamarków dusz w strachu przed oceną, stygmą, odsłonięciem swojej wrażliwości","praca z uważnością", "uczestnictwo bezpłatne", "obowiązują zapisy przez formularz"],
+    link: {
+      url: "https://mailchi.mp/6dc19c603516/czytymniewogolesluchasz",
+      text: "STRONA PROJEKTU"
+    }
+  },
     {
     imageFileName: "recents/recents2.jpg",
     imageFileNameDetail: "recents/recents2.jpg",
@@ -36,18 +48,6 @@ portfolios: [
     extraInfo: ["DATY: 9-10 października, 6-7 listopada, 4-5 grudnia","GRUPY: 11:30-13:00 - taniec irlandzki soft shoes (miękkie buty), 13:15-14:45 - step irlandzki ","MIEJSCE: Szkoła Tai Chi Jadeit, ul. Bastionowa 47 (na terenie Cytadeli)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY tylko przez poniższy formularz"],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSfMu8cXvURqpqCs8bQLYhl1rP8Xd3NGx31BYrUIT4Ypn3P3yg/viewform",
-      text: "ZAPISZ SIĘ - kliknij"
-    }
-  },
-    {
-    imageFileName: "recents/recents5.jpg",
-    imageFileNameDetail: "recents/recents5.jpg",
-    header: "Bądź poruszon :)",
-    subheader: "spotkania ogólnoruchowe dla tancerzy",
-    content: "Sesje (na razie on-line) ruchowe/ruchome/ruchliwe/ruchawe/poruszające/rozruszające oparte o takie praktyki jak joga, pilates, Body-Mind Centering®, Franklin Method® czy inspiracje zaczerpnięte z technik tańca współczesnego. Spotkania są organizowane z myślą o osobach, które tańczą i chcą uważniej posłuchać potrzeb swojego ciała, aby móc cieszyć się z jego użytkowania jak najdłużej, nie tylko na parkiecie. Osoby podające się za nie tańczące również będą mile widziane. ",
-    extraInfo: ["sesje odbywały się do tej pory w grupie prywatnej na Facebooku - 'EtnoBalans się porusza' - zachęcamy do dołączenia do grupy, ponieważ możecie tam znaleźć stare sesje i poćwiczyć, kiedy chcecie","od końca października planujemy robić sesje na żywo, jeśli tylko będzie taka możliwość i wirus nie pokrzyżuje planów","płatność od serca <3", "obowiązują zapisy przez formularz"],
-    link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSeWjguu1L8ikbrG4LeId_xgu9ym7Pz6fOtw5V-86AJW6rolzw/viewform",
       text: "ZAPISZ SIĘ - kliknij"
     }
   },

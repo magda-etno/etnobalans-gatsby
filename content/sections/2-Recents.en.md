@@ -14,7 +14,19 @@ portfolios: [
       url: "https://mailchi.mp/5f94ab51dba6/embodiedpercussivedance",
       text: "DETAILS"
     }
-  },  
+  }, 
+        {
+    imageFileName: "recents/recents9.jpg",
+    imageFileNameDetail: "recents/recents9.jpg",
+    header: "Are you listening?...",
+    subheader: "movement workshop for women, January 2022",
+    content: "To be heard is to be noticed. Sharing your story with a non-judgmental, accepting and compassionate person can be a truly therapeutic, soul-healing experience. Too many of us remain silent. Because of fear, stress, lack of awareness, helplessness, awareness of being judged or simply because of lack of people who are ready to listen to us. With our project we want to stimulate, especially among women, the readiness both to listen carefully and to use their own voice.",
+    extraInfo: ["project is prepared in cooperation with poruszajacestudio.pl", "weekend workshop for women focused on improving the art of listening and creating space to be heard","conscious bodywork through which we want to initiate processes of expression of deeply hidden emotions, so far unspoken words, unspoken thoughts, stories swept under rug in fear of being judged, stigmatized, revealing one's sensitivity","mindful practise", "free od charge", "registration via form"],
+    link: {
+      url: "https://mailchi.mp/6dc19c603516/czytymniewogolesluchasz",
+      text: "PROJECT WEBSITE"
+    }
+  }, 
   {
     imageFileName: "recents/recents2.jpg",
     imageFileNameDetail: "recents/recents2.jpg",
