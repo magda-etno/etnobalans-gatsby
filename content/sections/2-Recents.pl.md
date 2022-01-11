@@ -33,7 +33,7 @@ portfolios: [
     header: "Taniec irlandzki zajęcia regularne",
     subheader: "cykl zimowy I-III 2022",
     content: "W Nowym Roku startujemy ciut później, bo dopiero od trzeciego tygodnia stycznia, czyli 19.01.2022. W lutym może nastąpić mini korekta godzin, ale będziemy Was informować na bieżąco i najpierw zapytamy na zajęciach. W styczniu grupy wyglądają następująco:",
-    extraInfo: ["POINTMAKERS POCZĄTKUJĄCA+ - piątki | 19:00-20:30","POINTMAKERS ŚREDNIOZAAWANSOWANA - czwartki | 20:30-22:00", " TREBLEMAKERS POCZĄTKUJĄCA+ - środy | 17:30-19:00", " TREBLEMAKERS ŚREDNIOZAAWANSOWANA - piątki | 17:30-19:00", "* UWAGA! Grupa stepu średniozaawansowana stanęła pod znakiem zapytania ze względu na dość skąpą frekwencję pod koniec zeszłego cyklu. Jeżeli w styczniu nie zbierze się nam 6 regularnych osób to są 3 opcje. Albo przejdzie ona w stan hibernacji, albo spotkania będą nieformalne i ze zrzutką salową, albo zapraszamy na zajęcia do grupy początkującej +, która robi bardzo szybkie postępy. ", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
+    extraInfo: ["POINTMAKERS POCZĄTKUJĄCA+ - piątki | 19:00-20:30","POINTMAKERS ŚREDNIOZAAWANSOWANA - czwartki | 20:30-22:00", "TREBLEMAKERS POCZĄTKUJĄCA+ - środy | 17:30-19:00", "TREBLEMAKERS ŚREDNIOZAAWANSOWANA - piątki | 17:30-19:00", "UWAGA! Grupa stepu średniozaawansowana stanęła pod znakiem zapytania ze względu na dość skąpą frekwencję pod koniec zeszłego cyklu. Jeżeli w styczniu nie zbierze się nam 6 regularnych osób to są 3 opcje. Albo przejdzie ona w stan hibernacji, albo spotkania będą nieformalne i ze zrzutką salową, albo zapraszamy na zajęcia do grupy początkującej +, która robi bardzo szybkie postępy. ", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdnU1HjgTwBKpVFEFz2VONRVogsRjBbWVV0TMoeYt6sqHAi6A/viewform",
       text: "FORMULARZ - kliknij"
@@ -43,11 +43,11 @@ portfolios: [
     imageFileName: "recents/recents6.jpg",
     imageFileNameDetail: "recents/recents6.jpg",
     header: "Taniec irlandzki dla początkujących",
-    subheader: "warsztaty weekendowe X-XII 2022",
-    content: "Zapraszamy wszystkich, którzy już długo czekali na nasze zajęcia tańca irlandzkiego OD ZERA! Nasza propozycja na jesień to warsztaty weekendowe w 3 rundach, po których będziecie mieli całkiem sporo pojęcia o tańcu irlandzkim i zdecydujecie, czy chcecie kontynuować przygodę w ramach regularnych zajęć. Podczas każdych zajęć będziemy uczyć się nowego zestawu kroków, więc można przybywać na wybrane zajęcia bez obawy, że nie będziecie wiedzieć, o co chodzi. Zachęcamy jednak do udziału w całym cyklu, aby jak najpełniej skorzystać z okazji do zdobycia podstaw tego specyficznego, ale jakże pięknego tańca.  ",
-    extraInfo: ["DATY: 9-10 października, 6-7 listopada, 4-5 grudnia","GRUPY: 11:30-13:00 - taniec irlandzki soft shoes (miękkie buty), 13:15-14:45 - step irlandzki ","MIEJSCE: Szkoła Tai Chi Jadeit, ul. Bastionowa 47 (na terenie Cytadeli)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY tylko przez poniższy formularz"],
+    subheader: "warsztaty weekendowe II-V 2022",
+    content: "Zapraszamy wszystkich, którzy chcą zgłębiać tajniki tańca irlandzkiego od podstaw lub mają malutkie doświadczenie z tańcem irlandzkim! Podczas każdych zajęć będziemy uczyć się nowego zestawu kroków, więc można przybywać na wybrane zajęcia bez obawy, że nie będziecie wiedzieć, o co chodzi. Będziemy wracać regularnie do podstawowych elementów i stopiowo dawać Wam nowe wyzwania. Już cieszymy się na zajęcia z Wami!",
+    extraInfo: ["DATY: 12-13 lutego, 12-13 marca, 9-10 kwietnia, 7-8 maja","GRUPY: 11:00-12:30 - taniec irlandzki soft shoes (miękkie buty), 12:30-14:00 - step irlandzki ","MIEJSCE: Retro Dance Studio, ul. Wielka 19 (przy Starym Rynku)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY tylko przez poniższy formularz", "UWAGA! 13 marca z okazji Dnia św. Patryka będzie wyjątkowy dzień warsztatowy z darmowym wstępem. Kontynuacją warsztatów będzie impreza Szmaragdowe Céilí. Miejsce: Dom Tramwajarza, Jeżyce. Szczegóły godzinowe i lokalowe podamy Wam niebawem."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfMu8cXvURqpqCs8bQLYhl1rP8Xd3NGx31BYrUIT4Ypn3P3yg/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jta7f1y-Y4mEoLgUy9RCF6j8q_2VYJ9OOgtAIYsXnLHqzQ/viewform",
       text: "ZAPISZ SIĘ - kliknij"
     }
   },
