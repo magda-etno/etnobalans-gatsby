@@ -19,7 +19,7 @@ portfolios: [
     imageFileName: "recents/recents9.jpg",
     imageFileNameDetail: "recents/recents9.jpg",
     header: "Are you listening?...",
-    subheader: "movement workshop for women, January 2022",
+    subheader: "movement workshop for women, I 2022",
     content: "To be heard is to be noticed. Sharing your story with a non-judgmental, accepting and compassionate person can be a truly therapeutic, soul-healing experience. Too many of us remain silent. Because of fear, stress, lack of awareness, helplessness, awareness of being judged or simply because of lack of people who are ready to listen to us. With our project we want to stimulate, especially among women, the readiness both to listen carefully and to use their own voice.",
     extraInfo: ["project is prepared in cooperation with poruszajacestudio.pl", "weekend workshop for women focused on improving the art of listening and creating space to be heard","conscious bodywork through which we want to initiate processes of expression of deeply hidden emotions, so far unspoken words, unspoken thoughts, stories swept under rug in fear of being judged, stigmatized, revealing one's sensitivity","mindful practise", "free od charge", "registration via form"],
     link: {
@@ -31,11 +31,11 @@ portfolios: [
     imageFileName: "recents/recents2.jpg",
     imageFileNameDetail: "recents/recents2.jpg",
     header: "Modern Irish dance regular classes",
-    subheader: "from 7th Oct 2021",
-    content: "On 7th October 2021 we are starting another series of regular classes in the contemporary style of Irish soft shoe dance and step dancing will begin. Our classes include: great music, intriguing steps, encouraging creativity, supporting fitness and a friendly community.",
-    extraInfo: ["POINTMAKERS BEGINNERS+ - Fridays | 19:00-20:30","POINTMAKERS INTERMEDIATE - Thursdays | 20:30-22:00", " TREBLEMAKERS INTERMEDIATE - Fridays | 17:30-19:00",  "Register deadline - 26th September 2021! Remember, it's a good idea to hurry up because places in the class are limited due to you know what.", "Organizational details can be found in the registration form below."],
+    subheader: "winter series I-III 2022",
+    content: "In the New Year we start a little later - on 19.01.2022. In February there may be a mini-adjustment of hours, but we will keep you informed and first ask in class. In January the groups are as follows:",
+    extraInfo: ["POINTMAKERS BEGINNERS+ - Fridays | 19:00-20:30","POINTMAKERS INTERMEDIATE - Thursdays | 20:30-22:00", " TREBLEMAKERS BEGINNERS+ - Wednesdays | 17:30-19:00", " TREBLEMAKERS INTERMEDIATE - Fridays | 17:30-19:00" "* NOTE: The intermediate step group has been put in question due to the rather sparse attendance at the end of last series. If we don't get 6 regular people together in January then there are 3 options. Either it will go into hibernation, or the meetings will be informal and with a room drop, or you are welcome to join the beginner + group, which is making very fast progress.", "Organizational details can be found in the registration form below."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSe9lV6ik42Eip1yTu7flVgTiN4ZWDc1CuD1A4nGyCCmYHOmgA/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdnU1HjgTwBKpVFEFz2VONRVogsRjBbWVV0TMoeYt6sqHAi6A/viewform",
       text: "REGISTER - click"
     }
   },
@@ -43,7 +43,7 @@ portfolios: [
     imageFileName: "recents/recents6.jpg",
     imageFileNameDetail: "recents/recents6.jpg",
     header: "Irish dance for beginners",
-    subheader: "weekend workshops Oct-Dec 2021",
+    subheader: "weekend workshops X-XII 2021",
     content: "We invite all of you who have been waiting for a long time for our Irish dancing classes FROM ZERO TO HERO! Our offer for this Autumn are weekend workshops in 3 rounds, after which you will have a pretty good idea about Irish dancing and you will decide whether you want to continue the adventure in regular classes. During each class we will learn a new set of steps, so you can come to selected classes without worrying that you won't know what it's all about. However, we encourage you to attend the entire series to get the most out of your opportunity to learn the basics of this particular but beautiful dance.",
     extraInfo: ["DATES: 9-10th October, 6-7th November, 4-5th December","GROUPS: 11:30-13:00 - soft shoes, 13:15-14:45 - heavy shoes ","WHERE: School of Tai Chi Jadeit, ul. Bastionowa 47 (Cytadela Park)", "INVESTMENT: 35 zł - drop-in 1,5 h, 180 zł - 6 classes pass, 300 zł - 12 classes pass", "REGISTRATION only via form below"],
     link: {
@@ -69,7 +69,7 @@ portfolios: [
     header: "Tap dance",
     subheader: "regular classes",
     content: "Our taping classes are: diverse musical atmosphere, intriguing steps, encouragement to creativity and improvisation and friendly community. During regular classes we focus on dance and improvisation techniques.",
-    extraInfo: ["Current groups: intermediate, Tuesdays 5:45pm-7:00pm"],
+    extraInfo: ["Currently no classes are running. You can always contact us and book a private class."],
     link: {
       url: "",
       text: ""

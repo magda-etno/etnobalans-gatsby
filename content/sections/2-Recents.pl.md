@@ -19,7 +19,7 @@ portfolios: [
     imageFileName: "recents/recents9.jpg",
     imageFileNameDetail: "recents/recents9.jpg",
     header: "Czy Ty mnie w ogóle słuchasz?...",
-    subheader: "warsztat ruchowy dla kobiet, sty 2022",
+    subheader: "warsztat ruchowy dla kobiet, I 2022",
     content: "Być wysłuchanym, to być zauważonym. Podzielenie się swoją opowieścią z nieoceniającą nas, akceptującą i współczującą osobą bywa prawdziwie terapeutycznym, potrafiącym uleczyć duszę doświadczeniem. Zbyt wiele z nas milczy. Ze strachu, stresu, braku świadomości, bezradności, świadomości bycia ocenianym lub zwyczajnie z braku osób, które są gotowe nas wysłuchać. Naszym projektem chcemy stymulować, szczególnie wśród kobiet, gotowość zarówno do uważnego słuchania, jak i korzystania z własnego głosu.",
     extraInfo: ["projekt przygotowany wspólnie z poruszajacestudio.pl", "weekendowy warsztat dla kobiet, którego głównym tematem jest doskonalenie sztuki słuchania oraz stwarzanie przestrzeni do bycia wysłuchanym","świadoma praca z ciałem, poprzez którą chcemy zainicjować procesy ekspresji głębiej schowanych emocji, niewypowiedzianych dotychczas słów, nieprzekazanych myśli, historii spychanych do zakamarków dusz w strachu przed oceną, stygmą, odsłonięciem swojej wrażliwości","praca z uważnością", "uczestnictwo bezpłatne", "obowiązują zapisy przez formularz"],
     link: {
@@ -31,11 +31,11 @@ portfolios: [
     imageFileName: "recents/recents2.jpg",
     imageFileNameDetail: "recents/recents2.jpg",
     header: "Taniec irlandzki zajęcia regularne",
-    subheader: "od 7 paź 2021",
-    content: "Od 7 października 2021 startuje kolejny cykl zajęć regularnych współczesnego stylu tańca irlandzkiego w miękkich butach oraz stepu. Nasze zajęcia to: wspaniała muzyka, intrygujące kroki, zachęta do kreatywności, wspieranie kondycji i przyjazna społeczność.",
-    extraInfo: ["POINTMAKERS POCZĄTKUJĄCA+ - piątki | 19:00-20:30","POINTMAKERS ŚREDNIOZAAWANSOWANA - czwartki | 20:30-22:00", " TREBLEMAKERS ŚREDNIOZAAWANSOWANA - piątki | 17:30-19:00",  "Zapisy do 26 września! Pamiętajcie, że warto się pospieszyć, bo liczba miejsc na zajęciach jest ograniczona ze względu na wiadomo co.", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
+    subheader: "cykl zimowy I-III 2022",
+    content: "W Nowym Roku startujemy ciut później, bo dopiero od trzeciego tygodnia stycznia, czyli 19.01.2022. W lutym może nastąpić mini korekta godzin, ale będziemy Was informować na bieżąco i najpierw zapytamy na zajęciach. W styczniu grupy wyglądają następująco:",
+    extraInfo: ["POINTMAKERS POCZĄTKUJĄCA+ - piątki | 19:00-20:30","POINTMAKERS ŚREDNIOZAAWANSOWANA - czwartki | 20:30-22:00", " TREBLEMAKERS POCZĄTKUJĄCA+ - środy | 17:30-19:00", " TREBLEMAKERS ŚREDNIOZAAWANSOWANA - piątki | 17:30-19:00", "* UWAGA! Grupa stepu średniozaawansowana stanęła pod znakiem zapytania ze względu na dość skąpą frekwencję pod koniec zeszłego cyklu. Jeżeli w styczniu nie zbierze się nam 6 regularnych osób to są 3 opcje. Albo przejdzie ona w stan hibernacji, albo spotkania będą nieformalne i ze zrzutką salową, albo zapraszamy na zajęcia do grupy początkującej +, która robi bardzo szybkie postępy. ", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSe9lV6ik42Eip1yTu7flVgTiN4ZWDc1CuD1A4nGyCCmYHOmgA/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdnU1HjgTwBKpVFEFz2VONRVogsRjBbWVV0TMoeYt6sqHAi6A/viewform",
       text: "FORMULARZ - kliknij"
     }
   },
@@ -43,7 +43,7 @@ portfolios: [
     imageFileName: "recents/recents6.jpg",
     imageFileNameDetail: "recents/recents6.jpg",
     header: "Taniec irlandzki dla początkujących",
-    subheader: "warsztaty weekendowe paź-gru 2021",
+    subheader: "warsztaty weekendowe X-XII 2022",
     content: "Zapraszamy wszystkich, którzy już długo czekali na nasze zajęcia tańca irlandzkiego OD ZERA! Nasza propozycja na jesień to warsztaty weekendowe w 3 rundach, po których będziecie mieli całkiem sporo pojęcia o tańcu irlandzkim i zdecydujecie, czy chcecie kontynuować przygodę w ramach regularnych zajęć. Podczas każdych zajęć będziemy uczyć się nowego zestawu kroków, więc można przybywać na wybrane zajęcia bez obawy, że nie będziecie wiedzieć, o co chodzi. Zachęcamy jednak do udziału w całym cyklu, aby jak najpełniej skorzystać z okazji do zdobycia podstaw tego specyficznego, ale jakże pięknego tańca.  ",
     extraInfo: ["DATY: 9-10 października, 6-7 listopada, 4-5 grudnia","GRUPY: 11:30-13:00 - taniec irlandzki soft shoes (miękkie buty), 13:15-14:45 - step irlandzki ","MIEJSCE: Szkoła Tai Chi Jadeit, ul. Bastionowa 47 (na terenie Cytadeli)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY tylko przez poniższy formularz"],
     link: {
@@ -69,7 +69,7 @@ portfolios: [
     header: "Tap dance",
     subheader: "zajęcia regularne",
     content: "Nasze zajęcia stepowania to: zróżnicowane klimaty muzyczne, intrygujące kroki, zachęta do kreatywności i improwizacji i przyjazna społeczność. Podczas zajęć regularnych skupiamy się na technice tańca oraz improwizacji.",
-    extraInfo: ["Aktualne grupy: średniozaawansowana, wtorki 17:45-19:00"],
+    extraInfo: ["Aktualnie żadna grupa regularna się nie toczy. Jeśli masz chęć się uczyć, napisz do nas i umów się na lekcję prywatną."],
     link: {
       url: "",
       text: ""
