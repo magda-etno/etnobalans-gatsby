@@ -43,9 +43,9 @@ portfolios: [
     imageFileName: "recents/recents6.jpg",
     imageFileNameDetail: "recents/recents6.jpg",
     header: "Irish dance for beginners",
-    subheader: "weekend workshops X-XII 2021",
+    subheader: "weekend workshops III-VI 2022",
     content: "We welcome anyone who wants to explore Irish dancing from scratch or has a tiny bit of experience with Irish dancing! We will be learning a new set of steps at each class, so you can select classes without worrying that you won't know what it's all about. We will be recaping regularly to the basic elements and gradually giving you new challenges. We are already looking forward to dance with you!",
-    extraInfo: ["DATES: 12-13th February, 12-13th March, 9-10th April, 7-8th May", "GROUPS: 11:00-12:30 - soft shoes, 12:30-14:00 - heavy shoes ","WHERE: Retro Dance Studio, Wielka 19 (near Old Market)", "INVESTMENT: 35 zł - drop-in 1,5 h, 210 zł - 6 classes pass, 350 zł - 14 classes pass", "REGISTRATION only via form below"],
+    extraInfo: ["DATES: 12-13th March, 9-10th April, 7-8th May, June TBA", "GROUPS: 11:00-12:30 - soft shoes, 12:30-14:00 - heavy shoes ","WHERE: Retro Dance Studio, Wielka 19 (near Old Market)", "INVESTMENT: 35 zł - drop-in 1,5 h, 210 zł - 6 classes pass, 350 zł - 14 classes pass", "REGISTRATION only via form below"],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jta7f1y-Y4mEoLgUy9RCF6j8q_2VYJ9OOgtAIYsXnLHqzQ/viewform",
       text: "REGISTER - click"
