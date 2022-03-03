@@ -4,6 +4,18 @@ header: "Recents"
 subheader: "Ongoing or upcoming regular activities, workshops, events, projects."
 portfolios: [
   {
+    imageFileName: "recents/recents10.jpg",
+    imageFileNameDetail: "recents/recents10.jpg",
+    header: "Emerald Céilí vol. 7/9",
+    subheader: "Irish dance ball III 2022",
+    content: "After a 2-year break from live dance balls in Poznan we announce the resurrection of our long-standing tradition. This year's edition will be a bit more intimate than previous meetings and marked by the spirit of support for Ukrainians. Each of us now needs to take care of ourselves as well, and moving together is always a good way to self-regulate. So bring your sadness, helplessness, piss, grief, fear and any other emotions and we will tame them with mutual support. We must admit that the Irish are a nation that in its turbulent history has constantly drawn strength from the restorative and heart-soothing healing power of poetry, music and dance. We refer to their tradition.",
+    extraInfo: ["DATE: 13th March 2022, Sunday", "WHERE: Dom Tramwajarza, ul. Słowackiego 19, Poznań", "PROGRAME: 17:00-18:00 - basic Irish dance softshoe steps, 18:15-19:15 - basic sean nós steps, 19:30-21:30 - dance ball with group dances"],
+    link: {
+      url: "https://app.evenea.pl/event/szmaragdoweceili2022",
+      text: "INFO AND REGISTRATION - CLICKś"
+    }
+  },
+  {
     imageFileName: "recents/recents8.jpg",
     imageFileNameDetail: "recents/recents8.jpg",
     header: "Embodied Percussive Dance",
@@ -19,7 +31,7 @@ portfolios: [
     imageFileName: "recents/recents9.jpg",
     imageFileNameDetail: "recents/recents9.jpg",
     header: "Are you listening?...",
-    subheader: "movement workshop for women, I 2022",
+    subheader: "movement workshop for women, III 2022",
     content: "To be heard is to be noticed. Sharing your story with a non-judgmental, accepting and compassionate person can be a truly therapeutic, soul-healing experience. Too many of us remain silent. Because of fear, stress, lack of awareness, helplessness, awareness of being judged or simply because of lack of people who are ready to listen to us. With our project we want to stimulate, especially among women, the readiness both to listen carefully and to use their own voice.",
     extraInfo: ["project is prepared in cooperation with poruszajacestudio.pl", "weekend workshop for women focused on improving the art of listening and creating space to be heard","conscious bodywork through which we want to initiate processes of expression of deeply hidden emotions, so far unspoken words, unspoken thoughts, stories swept under rug in fear of being judged, stigmatized, revealing one's sensitivity","mindful practise", "free od charge", "registration via form"],
     link: {
@@ -49,18 +61,6 @@ portfolios: [
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jta7f1y-Y4mEoLgUy9RCF6j8q_2VYJ9OOgtAIYsXnLHqzQ/viewform",
       text: "REGISTER - click"
-    }
-  },
-  {
-    imageFileName: "recents/recents1.jpg",
-    imageFileNameDetail: "recents/recents1.jpg",
-    header: "Sean Nós MeetUps",
-    subheader: "traditional irish tap dance | 4-5th Dec",
-    content: "Sean nós (old style) Irish dance style gained its name about 20 years ago, coming from rural areas of Ireland, where the tradition of dance and music was a natural need and way of social entertainment. Recently it has become more and more popular, probably because of its spontaneity and freedom of expression. Leg movements are small and less spacious, close to the floor and the body is relaxed from the waist up. Since it is an improvised form, each dancer presents his own unique style. The dancers Sean nós stay in close contact with the musicians and everyone reacts to what is happening here and now. The desire to combine the energy of dancers and musicians whose passions are the Irish climate and the desire to seek dialogue between them inevitably pushes us to try to work out a regular space for this :)",
-    extraInfo: ["If you are eager to take your first steps in sean nós style, please email us. We have an online course for beginners that will give you an insight into the technique.", "Upcoming dates: 4-5th December 2021, sign up through the form below."],
-    link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jta7f1y-Y4mEoLgUy9RCF6j8q_2VYJ9OOgtAIYsXnLHqzQ/viewform",
-      text: "INFO AND REGISTRATION - click"
     }
   },
   {
