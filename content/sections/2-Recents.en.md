@@ -45,7 +45,7 @@ portfolios: [
     header: "Modern Irish dance regular classes",
     subheader: "winter series I-III 2022",
     content: "In the New Year we start a little later - on 19.01.2022. In February there may be a mini-adjustment of hours, but we will keep you informed and first ask in class. In January the groups are as follows:",
-    extraInfo: ["POINTMAKERS BEGINNERS+ - Fridays | 19:00-20:30","POINTMAKERS INTERMEDIATE - Thursdays | 20:30-22:00", "TREBLEMAKERS BEGINNERS+ - Wednesdays | 17:30-19:00", "TREBLEMAKERS INTERMEDIATE - Fridays | 17:30-19:00", "NOTE: The intermediate step group has been put in question due to the rather sparse attendance at the end of last series. If we don't get 6 regular people together in January then there are 3 options. Either it will go into hibernation, or the meetings will be informal and with a room drop, or you are welcome to join the beginner + group, which is making very fast progress.", "Organizational details can be found in the registration form below."],
+    extraInfo: ["POINTMAKERS BEGINNERS+ - Fridays | 19:00-20:30","POINTMAKERS INTERMEDIATE - Thursdays | 20:30-22:00", "TREBLEMAKERS BEGINNERS+ - Wednesdays | 17:30-19:00", "Organizational details can be found in the registration form below."],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdnU1HjgTwBKpVFEFz2VONRVogsRjBbWVV0TMoeYt6sqHAi6A/viewform",
       text: "REGISTER - click"
@@ -57,7 +57,7 @@ portfolios: [
     header: "Irish dance for beginners",
     subheader: "weekend workshops III-VI 2022",
     content: "We welcome anyone who wants to explore Irish dancing from scratch or has a tiny bit of experience with Irish dancing! We will be learning a new set of steps at each class, so you can select classes without worrying that you won't know what it's all about. We will be recaping regularly to the basic elements and gradually giving you new challenges. We are already looking forward to dance with you!",
-    extraInfo: ["DATES: 12-13th March, 9-10th April, 7-8th May, June TBA", "GROUPS: 11:00-12:30 - soft shoes, 12:30-14:00 - heavy shoes ","WHERE: Retro Dance Studio, Wielka 19 (near Old Market)", "INVESTMENT: 35 zł - drop-in 1,5 h, 210 zł - 6 classes pass, 350 zł - 14 classes pass", "REGISTRATION only via form below"],
+    extraInfo: ["DATES: 12-13th March, 9-10th April, 7-8th May, June TBA", "GROUPS: 11:00-12:30 - soft shoes, 12:30-14:00 - heavy shoes ","WHERE: Retro Dance Studio, Wielka 19 (near Old Market)", "INVESTMENT: 35 zł - drop-in 1,5 h, 210 zł - 7 classes pass, 350 zł - 14 classes pass", "REGISTRATION only via form below"],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jta7f1y-Y4mEoLgUy9RCF6j8q_2VYJ9OOgtAIYsXnLHqzQ/viewform",
       text: "REGISTER - click"

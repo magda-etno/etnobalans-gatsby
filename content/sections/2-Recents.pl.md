@@ -45,7 +45,7 @@ portfolios: [
     header: "Taniec irlandzki zajęcia regularne",
     subheader: "cykl zimowy I-III 2022",
     content: "W Nowym Roku startujemy ciut później, bo dopiero od trzeciego tygodnia stycznia, czyli 19.01.2022. W lutym może nastąpić mini korekta godzin, ale będziemy Was informować na bieżąco i najpierw zapytamy na zajęciach. W styczniu grupy wyglądają następująco:",
-    extraInfo: ["POINTMAKERS POCZĄTKUJĄCA+ - piątki | 19:00-20:30","POINTMAKERS ŚREDNIOZAAWANSOWANA - czwartki | 20:30-22:00", "TREBLEMAKERS POCZĄTKUJĄCA+ - środy | 17:30-19:00", "TREBLEMAKERS ŚREDNIOZAAWANSOWANA - piątki | 17:30-19:00", "UWAGA! Grupa stepu średniozaawansowana stanęła pod znakiem zapytania ze względu na dość skąpą frekwencję pod koniec zeszłego cyklu. Jeżeli w styczniu nie zbierze się nam 6 regularnych osób to są 3 opcje. Albo przejdzie ona w stan hibernacji, albo spotkania będą nieformalne i ze zrzutką salową, albo zapraszamy na zajęcia do grupy początkującej +, która robi bardzo szybkie postępy. ", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
+    extraInfo: ["POINTMAKERS POCZĄTKUJĄCA+ - piątki | 19:00-20:30","POINTMAKERS ŚREDNIOZAAWANSOWANA - czwartki | 20:30-22:00", "TREBLEMAKERS POCZĄTKUJĄCA+ - środy | 17:30-19:00", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdnU1HjgTwBKpVFEFz2VONRVogsRjBbWVV0TMoeYt6sqHAi6A/viewform",
       text: "FORMULARZ - kliknij"
@@ -57,7 +57,7 @@ portfolios: [
     header: "Taniec irlandzki dla początkujących",
     subheader: "warsztaty weekendowe III-VI 2022",
     content: "Zapraszamy wszystkich, którzy chcą zgłębiać tajniki tańca irlandzkiego od podstaw lub mają malutkie doświadczenie z tańcem irlandzkim! Podczas każdych zajęć będziemy uczyć się nowego zestawu kroków, więc można przybywać na wybrane zajęcia bez obawy, że nie będziecie wiedzieć, o co chodzi. Będziemy wracać regularnie do podstawowych elementów i stopiowo dawać Wam nowe wyzwania. Już cieszymy się na zajęcia z Wami!",
-    extraInfo: ["DATY: 12-13 marca, 9-10 kwietnia, 7-8 maja, czerwiec TBA","GRUPY: 11:00-12:30 - taniec irlandzki soft shoes (miękkie buty), 12:30-14:00 - step irlandzki ","MIEJSCE: Retro Dance Studio, ul. Wielka 19 (przy Starym Rynku)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 180 zł - karnet 6 zajęć, 300 zł - karnet 12 zajęć", "ZAPISY tylko przez poniższy formularz", "UWAGA! 13 marca z okazji Dnia św. Patryka będzie wyjątkowy dzień warsztatowy z darmowym wstępem. Kontynuacją warsztatów będzie impreza Szmaragdowe Céilí. Miejsce: Dom Tramwajarza, Jeżyce. Szczegóły godzinowe i lokalowe podamy Wam niebawem."],
+    extraInfo: ["DATY: 12-13 marca, 9-10 kwietnia, 7-8 maja, czerwiec TBA","GRUPY: 11:00-12:30 - taniec irlandzki soft shoes (miękkie buty), 12:30-14:00 - step irlandzki ","MIEJSCE: Retro Dance Studio, ul. Wielka 19 (przy Starym Rynku)", "INWESTYCJA: 35 zł - pojedyncze zajęcia 1,5 h, 210 zł - karnet 7 zajęć, 350 zł - karnet 14 zajęć", "ZAPISY tylko przez poniższy formularz", "UWAGA! 13 marca z okazji Dnia św. Patryka będzie wyjątkowy dzień warsztatowy z darmowym wstępem. Kontynuacją warsztatów będzie impreza Szmaragdowe Céilí. Miejsce: Dom Tramwajarza, Jeżyce. Szczegóły godzinowe i lokalowe znajdziecie w osobnym wydarzeniu."],
     link: {
       url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jta7f1y-Y4mEoLgUy9RCF6j8q_2VYJ9OOgtAIYsXnLHqzQ/viewform",
       text: "ZAPISZ SIĘ - kliknij"
