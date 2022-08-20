@@ -4,6 +4,18 @@ header: "Portfolio"
 subheader: "Selected projects that we created and participated in."
 portfolios: [
 {
+    imageFileName: "portfolio/are you listening.jpg",
+    imageFileNameDetail: "portfolio/are you listening.jpg",
+    header: "Are you listening...?",
+    subheader: "mindful movement workshop for women on Brigid's Day",
+    content: "The workshop took place on 19-20th March 2022 as a part of Brigid's Day Project. The project was conceived with the aim of stimulation a readiness to both listen carefully and use one's own voice, to speak about emotions and needs, and to communicate one's vision boldly.",
+    extraInfo: ["Some stories want to see the light of the day in order to gain more power, to transform and stir up waves of inspiration for action in other people. Others are to resound so that they finally lose their power, so that they cease to evoke fear, so that they are digested, embodied and let go, to make room for new qualities."],
+    link: {
+      url: "https://youtu.be/n9eIMDNc6Xs",
+      text: "WATCH THE VIDEO"
+    }
+  },  
+{
     imageFileName: "portfolio/back to myself.jpg",
     imageFileNameDetail: "portfolio/back to myself.jpg",
     header: "Back to myself",

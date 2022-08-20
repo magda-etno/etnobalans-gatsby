@@ -4,6 +4,18 @@ header: "Galeria"
 subheader: "Wybrane projekty, które tworzyliśmy i w których braliśmy udział."
 portfolios: [
 {
+    imageFileName: "portfolio/are you listening.jpg",
+    imageFileNameDetail: "portfolio/are you listening.jpg",
+    header: "Czy ty mnie w ogóle słuchasz?",
+    subheader: "warsztaty świadomego ruchu dla kobiet na Dzień Brygidy",
+    content: "Warsztaty odbyły się w dniach 19-20 marca 2022 roku w ramach projektu Dzień Brygidy. Projekt powstał z myślą o pobudzeniu gotowości zarówno do uważnego słuchania, jak i korzystania z własnego głosu, mówienia o emocjach i potrzebach oraz odważnego komunikowania swojej wizji.",
+    extraInfo: ["Niektóre opowieści chcą ujrzeć światło dzienne po to, aby nabyć więcej mocy, transformować i wzniecać fale inspiracji do działania w innych ludziach. Inne mają wybrzmieć po to, aby wreszcie straciły swoją moc, aby przestały wzbudzać strach, aby zostały przetrawione, ucieleśnione i pożegnane, aby zrobiły miejsce na nowe jakości."],
+    link: {
+      url: "https://youtu.be/n9eIMDNc6Xs",
+      text: "ZOBACZ KLIP"
+    }
+  },  
+{
     imageFileName: "portfolio/back to myself.jpg",
     imageFileNameDetail: "portfolio/back to myself.jpg",
     header: "Z powrotem u siebie",

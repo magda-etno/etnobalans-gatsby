@@ -1,4 +1,4 @@
 ---
-brand: ""
+brand: "EtnoBalans"
 menuText: "Menu "
 ---
