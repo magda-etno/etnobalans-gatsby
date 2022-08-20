@@ -1,6 +1,6 @@
 ---
-header: "body, mind and soul!"
-subheader: "We move"
+header: "space for moving stories"
+subheader: "We provide"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Offer"
 jumpToAnchorText: "Welcome!"

@@ -1,6 +1,6 @@
 ---
-header: "ciała, umysły i dusze!"
-subheader: "Poruszamy"
+header: "na poruszające historie"
+subheader: "Zapewniamy przestrzeń"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Oferta"
 jumpToAnchorText: "Zapraszamy!"

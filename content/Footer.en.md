@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © EtnoBalans 2020"
+copyright: "Copyright © EtnoBalans 2022"
 social: {
   twitter: "",
   facebook: "EtnoBalans",
