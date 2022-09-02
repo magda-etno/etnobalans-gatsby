@@ -3,7 +3,19 @@ anchor: "Aktualności"
 header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
-     {
+      {
+    imageFileName: "recents/recents11.jpg",
+    imageFileNameDetail: "recents/recents11.jpg",
+    header: "Taniec irlandzki",
+    subheader: "zajęcia regularne",
+    content: "Po pełnym wrażeń sierpniu robimy małą pauzę i gromadzimy się od końcówki września. Z nowości, wszystkie zajęcia są przeniesione do STA w Pasażu Apollo. Grupy wyglądają następująco:",
+    extraInfo: ["Pointmakers początkująca+/średniozaawansowana - piątki | 17:30-19:00","Céilimakers open - piątki | 19:00-21:00", "Treblemakers początkująca+/średniozaawansowana - środy | 17:30-19:00", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
+    link: {
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdIwguzy7M-DWT8Rqmnv1rH0ikju89872WqO-7e97CeEMPmNQ/viewform",
+      text: "FORMULARZ - kliknij"
+    }
+  },
+    {
     imageFileName: "recents/recents10.jpg",
     imageFileNameDetail: "recents/recents10.jpg",
     header: "Animacje taneczne",
@@ -15,29 +27,5 @@ portfolios: [
       text: "SZCZEGÓŁOWA OFERTA"
     }
   },
- {
-    imageFileName: "recents/recents9.jpg",
-    imageFileNameDetail: "recents/recents9.jpg",
-    header: "Wytup się!",
-    subheader: "stepuj zgodnie ze swoim rytmem",
-    content: "W tym roku proponujemy Wam mocno otwartą letnią przestrzeń zajęć stepowania. Rozwój umiejętności i nowe bodźce to raz, ale doszliśmy do wniosku, że bardzo ważna jest dla nas koncepcja przeżywania ruchu, tańca i dźwięków wspólnie bez wyraźnych podziałów na poziomy zaawansowania i kategorie wiekowe. Jesteśmy dość podekscytowani i ciekawi, co nam przyniosą takie spotkania.",
-    extraInfo: ["DATY: wszystkie wtorki sierpnia, 5 spotkań", "GODZINA: 17:30-19:30","MIEJSCE: STA, Ratajczaka 18, Poznań", "GRUPA WIEKOWA: zajęcia dla młodzieży i dorosłych", "POZIOM: otwarty", "PLAN: zajęcia stepowania poprzedzone dłuższą chwilą świadomej pracy z ciałem, jakościami ruchu, przestrzenią, oparte o ducha Embodied Percussive Dance", "INWESTYCJA: 25 zł, kwota jest kwotą sugerowaną. Jeżeli bardzo chcesz przyjść do nas, a Twoje środki są ograniczone, zapłać tyle, ile jesteś w stanie."],
-    link: {
-      url: "https://bit.ly/3yL0alh",
-      text: "INFORMACJE I ZAPISY - kliknij"
-    }
-  },  
-  {
-    imageFileName: "recents/recents5.jpg",
-    imageFileNameDetail: "recents/recents5.jpg",
-    header: "Tańce céilí w plenerze",
-    subheader: "taniec irlandzki sla wszystkich",
-    content: "Jest lato, więc dlaczego zamykać się z tańcem na sali. Zapraszamy Was na trawiasty parkiet Parku Cytadela i mamy nadzieję, że dołączycie do nas tłumnie. Wszyscy bez względu na wiek, poziom zaawansowania, kolor włosów, ulubiony smak lodów mile widziani i pożądani. W pierwszej godzinie zajęć przypomnimy podstawowe kroki plus zatańczymy prostsze grupowe tańce irlandzkie, w drugiej godzinie podkręcamy stopień skomplikowania",
-    extraInfo: ["DATY: wszystkie czwartki sierpnia plus 1 września, 5 spotkań", "GODZINA: 18:30-20:30","MIEJSCE: Park Cytadela, Poznań, zbiórka przy Dzwonie Pokoju i Przyjaźni Między Narodami", "INWESTYCJA: 25 zł, kwota jest kwotą sugerowaną. Jeżeli bardzo chcesz przyjść do nas, a Twoje środki są ograniczone, zapłać tyle, ile jesteś w stanie.",],
-    link: {
-      url: "https://bit.ly/3yL0alh",
-      text: "INFORMACJE I ZAPISY - kliknij"
-    }
-  }
 ]
 ---
