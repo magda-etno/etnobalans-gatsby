@@ -8,10 +8,10 @@ portfolios: [
     imageFileNameDetail: "recents/recents11.jpg",
     header: "Taniec irlandzki",
     subheader: "zajęcia regularne",
-    content: "Po pełnym wrażeń sierpniu robimy małą pauzę i gromadzimy się od końcówki września. Z nowości, wszystkie zajęcia są przeniesione do STA w Pasażu Apollo. Grupy wyglądają następująco:",
+    content: "Zajęcia w cyklu zimowym zaczynamy o tydzień wcześniej, niż Was informowaliśmy. Kończymy tym samym idealnie w tygodniu ze św. Patrykiem. Grupy wyglądają tak samo, jak w poprzednim cyklu:",
     extraInfo: ["Pointmakers początkująca+/średniozaawansowana - piątki | 17:30-19:00","Céilimakers open - piątki | 19:00-21:00", "Treblemakers początkująca+/średniozaawansowana - środy | 17:30-19:00", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSdIwguzy7M-DWT8Rqmnv1rH0ikju89872WqO-7e97CeEMPmNQ/viewform",
+      url: "https://bit.ly/3vmUf4z",
       text: "FORMULARZ - kliknij"
     }
   },

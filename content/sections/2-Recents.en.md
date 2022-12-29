@@ -8,10 +8,10 @@ portfolios: [
     imageFileNameDetail: "recents/recents11.jpg",
     header: "Irish dance",
     subheader: "regular classes",
-    content: "After an eventful August, we take a little pause and gather from the end of September. From the news, all classes are moved to STA in Pasaż Apollo. The groups look as follows:",
+    content: "We start classes in the winter series a week earlier than we informed you. We thus finish ideally in the week with St. Patrick's Day. The groups look the same as in the previous series:",
     extraInfo: ["Pointmakers początkująca+/średniozaawansowana - Fridays | 17:30-19:00","Céilimakers open - Fridays | 19:00-21:00", "Treblemakers początkująca+/średniozaawansowana - Wednesdays | 17:30-19:00", "You will find organizational details in the registration form below."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSdIwguzy7M-DWT8Rqmnv1rH0ikju89872WqO-7e97CeEMPmNQ/viewform",
+      url: "https://bit.ly/3vmUf4z",
       text: "FORM - click"
     }
   },
