@@ -15,6 +15,19 @@ portfolios: [
       text: "FORMULARZ - kliknij"
     }
   },
+      {
+    imageFileName: "recents/recents12.jpg",
+    imageFileNameDetail: "recents/recents12.jpg",
+    header: "Z powrotem u siebie",
+    subheader: "uważny ruch | luty-maj 2023",
+    content: "Cześć, tu Magda! Choć sieć nie jest moim naturalnym miejscem na wymianę ruchową, zdecydowałam się zaproponować Wam spotkania online z tęsknoty za wspólną regularną zabawą, eksploracją i wymianą. Otwieram 2 grupy: poranną w poniedziałki oraz wieczorną w czwartki. 
+    Praktyka ruchowa, którą Wam proponuje, ma na celu wspieranie kontaktu ze sobą, a to dla każdego będzie oznaczać coś zupełnie innego. Może będzie to:",
+    extraInfo: ["stawanie się coraz bardziej autentycznymi,","patrzenie z coraz większą łagodnością na to wszystko, co nazywamy niedoskonałościami,", "odzyskanie radości z poruszania się dla samej przyjemności,", "zwiększenie siły i mobilności poprzez odpuszczanie, rozwój równowagi i ustawienia ciała,", "odpuszczenie intelektualizowania i wejście głębiej w odczuwanie,", "wolność z poruszania się na swój własny, zgodny ze sobą sposób..."],
+    link: {
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfPlVyi3cQ5evgp19XU80o0bc5YJ63BBcyanqTVsJvo7WC2rg/viewform",
+      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
+    }
+  },
     {
     imageFileName: "recents/recents10.jpg",
     imageFileNameDetail: "recents/recents10.jpg",
