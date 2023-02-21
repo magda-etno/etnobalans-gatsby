@@ -4,6 +4,18 @@ header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
       {
+    imageFileName: "recents/recents13.jpg",
+    imageFileNameDetail: "recents/recents13.jpg",
+    header: "Patrykowa gra miejska",
+    subheader: "18 marca 2023",
+    content: "EtnoBalans i Fundacja Kultury Irlandzkiej zapraszają Was na Opowieści z Zielonej Wyspy, czyli pierwszą poznańską grę miejską z okazji Dnia św. Patryka! Zachęcamy do udziału całe rodziny, grupy przyjaciół jak również singli. Czeka Was pełna zagadek, wyzwań i niecodziennych spotkań wędrówka po Poznaniu śladami irlandzkiej kultury.",
+    extraInfo: ["Nasza gra miejska odbędzie się w sobotę 18 marca 2023 między 10:00 a 14:00.","W dniu 6 marca 2023 otworzona zostanie oficjalna bezpłatna rejestracja na wydarzenie i potrwa ona do 12 marca 2023.", "W sobotę 18 marca 2023 o godz. 10:00 otwieramy podwoje Fundacji Kultury Irlandzkiej przy ulicy Kramarskiej 1 - tam wszyscy zaczynają wędrówkę i odbierają mapę ze wskazówkami.", "Zadaniem uczestników jest odwiedzenie w dowolnej kolejności wszystkich miejsc oznaczonych na mapie, rozwiązanie w nich różnorodnych zadań oraz nawiązanie kontaktu z tajemniczymi postaciami z Zielonej Wyspy. W każdym z punktów należy odgadnąć hasło i odebrać naklejkę.", "Na uczestników, którzy odgadną główne hasło oraz zdobędą wszystkie naklejki, w siedzibie Fundacji Kultury Irlandzkiej będą czekały pamiątkowe nagrody. Można je będzie odbierać do godziny 14:15. "],
+    link: {
+      url: "https://app.evenea.pl/event/opowiesci-z-zielonej-wyspy/",
+      text: "SZCZEGÓŁY ORGANIZACYJNE I REJESTRACJA NA GRĘ - kliknij"
+    }
+  },
+      {
     imageFileName: "recents/recents11.jpg",
     imageFileNameDetail: "recents/recents11.jpg",
     header: "Taniec irlandzki",

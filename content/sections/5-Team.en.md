@@ -35,16 +35,6 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/4.png",
-    header: "Anna Wawrzyniak",
-    subheader: "Instructor",
-    social: {
-      twitter: "",
-      facebook: "",
-      medium: ""
-    }
-  },
-  {
     imageFileName: "team/5.png",
     header: "Dorota Grobelna",
     subheader: "Instructor",

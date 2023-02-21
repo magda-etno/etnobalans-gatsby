@@ -3,6 +3,18 @@ anchor: "Recents"
 header: "Recents"
 subheader: "Ongoing or upcoming regular activities, workshops, events, projects."
 portfolios: [
+      {
+    imageFileName: "recents/recents13.jpg",
+    imageFileNameDetail: "recents/recents13.jpg",
+    header: "St. Paddy's Urban Game",
+    subheader: "18th March 2023",
+    content: "EtnoBalans and Irish Culture Foundation invite you to the event: Stories from the Emerald Isle, Poznan's first St. Patrick's Day urban game! Whole families, groups of friends as well as singles are encouraged to participate. You cannot miss this journey in search of Irish culture! The journey full of riddles, challenges and unusual encounters which leads around Poznań City Centre.",
+    extraInfo: ["Our urban game will take place on Saturday 18 March 2023 between 10:00 and 14:00.","Official free registration for the event will open on 6 March 2023 and will run until 12 March 2023.", "On Saturday 18 March 2023 at 10:00 a.m., we open the doors of the Irish Culture Foundation at Kramarska Street - where everyone starts the adventure picking up a map with clues.", "The participants' task is to visit, in any order, all the places marked on the map, solve various tasks at these places and make contact with mysterious characters from the Emerald Island. At each point you have to guess the password and collect a sticker.", "Prizes will be waiting for participants who guess the main password and get all the stickers, at the Irish Culture Foundation's headquarters. They will be available for collection until 2:20 pm."],
+    link: {
+      url: "https://app.evenea.pl/event/opowiesci-z-zielonej-wyspy/",
+      text: "DETAILS AND REGISTRATION - click"
+    }
+  },
         {
     imageFileName: "recents/recents11.jpg",
     imageFileNameDetail: "recents/recents11.jpg",
