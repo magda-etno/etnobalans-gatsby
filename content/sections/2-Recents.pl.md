@@ -14,6 +14,18 @@ portfolios: [
       url: "https://app.evenea.pl/event/opowiesci-z-zielonej-wyspy/",
       text: "SZCZEGÓŁY ORGANIZACYJNE I REJESTRACJA NA GRĘ - kliknij"
     }
+  },  
+      {
+    imageFileName: "recents/recents14.jpg",
+    imageFileNameDetail: "recents/recents14.jpg",
+    header: "Szmaragdowe Céilí ",
+    subheader: "19 marca 2023",
+    content: "Szmaragdowe Céilí to jeden z najlepszych sposobów na witanie wiosny! Dlatego zapraszamy Was już niebawem na coroczne radosne podskoki, energetyzujące dźwięki i wymianę uśmiechów, a nawet uścisków. Bardzo się cieszymy, że możemy się już coraz mniej dystansować. Podajemy szczegóły.",
+    extraInfo: ["📆 CZAS I MIEJSCE: 19 marca, niedziela, 17:00-21:00, Dom Tramwajarza, ul. Słowackiego 19/21.","🦸‍♀️ ORGANIZATORZY: EtnoBalans i Fundacja Kultury Irlandzkiej.", "✅ INWESTYCJA: wstęp wolny.", "🟢 DRESS CODE: Nie bójcie się być jak najbardziej zielonymi, najlepiej od stóp do głów! ", "🎶 MUZYKA: Folky Leaks", "☕️ UZUPEŁNIANIE ZASOBÓW ENERGII: Do Waszej dyspozycji bezpłatnie dostępne będzie podręczne stanowisko uzupełniania płynów z wodą oraz ciepłymi napojami. Jeżeli zapotrzebowanie na energię będzie większe, bardzo zachęcamy, aby skorzystać z usług Pana Gara, gdzie serwowane są przepyszne gruzińskie smakowitości, a także różniste napoje.", "🌱 ZERO WASTE ALERT! Jako, że podczas naszej imprezy chcemy jak najbardziej minimalizować wytwórstwo śmieci, bardzo Was prosimy o przybycie z własnym kubkiem!"],
+    link: {
+      url: "https://www.facebook.com/events/786507072369622",
+      text: "WYDARZENIE NA FACEBOOKU - kliknij"
+    }
   },
       {
     imageFileName: "recents/recents11.jpg",
