@@ -15,6 +15,18 @@ portfolios: [
       text: "DETAILS AND REGISTRATION - click"
     }
   },
+      {
+    imageFileName: "recents/recents14.jpg",
+    imageFileNameDetail: "recents/recents14.jpg",
+    header: "Emerald Céilí ",
+    subheader: "19th March 2023",
+    content: "Emerald Céilí is one of the best ways to welcome spring! That's why we're inviting you to join us soon for our annual joyful hopping, energizing sounds and exchange of smiles and even hugs. We are very happy to be getting less and less distant. We will give you the details.",
+    extraInfo: ["📆 DATE AND PLACE: 19th March, Sunday, 17:00-21:00, Dom Tramwajarza, ul. Słowackiego 19/21.","🦸‍♀️ ORGANISERS: EtnoBalans & Fundacja Kultury Irlandzkiej.", "✅ INVESTMENT: free of change.", "🟢 DRESS CODE: Don't be afraid to be as green as possible, preferably from head to toe! ", "🎶 MUSIC: Folky Leaks", "☕️ ENERGY RECHARGING: A handy refill station with water and hot beverages will be at your disposal free of charge. If the need for energy is greater, we highly encourage you to take advantage of Mr. Gara, where delicious Georgian delicacies are served, as well as various beverages.", "🌱 ZERO WASTE ALERT! As we want to minimize trash generation as much as possible during our event, we highly request you to come with your own mug!"],
+    link: {
+      url: "https://www.facebook.com/events/786507072369622",
+      text: "EVENT ON FACEBOOK - click"
+    }
+  },
         {
     imageFileName: "recents/recents11.jpg",
     imageFileNameDetail: "recents/recents11.jpg",

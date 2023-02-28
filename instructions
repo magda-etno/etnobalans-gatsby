@@ -1,5 +1,5 @@
 Terminal:
-cd ~/Desktop/KikiMokoro/MY\ PROJECTS/etnobalans-gatsby     
+cd ~/Desktop/KikiMokoro/websites/etnobalans-gatsby    
 gatsby develop
 
 (to quit press ctrl+c)
