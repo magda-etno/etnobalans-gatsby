@@ -6,59 +6,58 @@ portfolios: [
       {
     imageFileName: "recents/recents13.jpg",
     imageFileNameDetail: "recents/recents13.jpg",
-    header: "Patrykowa gra miejska",
-    subheader: "18 marca 2023",
-    content: "EtnoBalans i Fundacja Kultury Irlandzkiej zapraszają Was na Opowieści z Zielonej Wyspy, czyli pierwszą poznańską grę miejską z okazji Dnia św. Patryka! Zachęcamy do udziału całe rodziny, grupy przyjaciół jak również singli. Czeka Was pełna zagadek, wyzwań i niecodziennych spotkań wędrówka po Poznaniu śladami irlandzkiej kultury.",
-    extraInfo: ["Nasza gra miejska odbędzie się w sobotę 18 marca 2023 między 10:00 a 14:00.","W dniu 6 marca 2023 otworzona zostanie oficjalna bezpłatna rejestracja na wydarzenie i potrwa ona do 12 marca 2023.", "W sobotę 18 marca 2023 o godz. 10:00 otwieramy podwoje Fundacji Kultury Irlandzkiej przy ulicy Kramarskiej 1 - tam wszyscy zaczynają wędrówkę i odbierają mapę ze wskazówkami.", "Zadaniem uczestników jest odwiedzenie w dowolnej kolejności wszystkich miejsc oznaczonych na mapie, rozwiązanie w nich różnorodnych zadań oraz nawiązanie kontaktu z tajemniczymi postaciami z Zielonej Wyspy. W każdym z punktów należy odgadnąć hasło i odebrać naklejkę.", "Na uczestników, którzy odgadną główne hasło oraz zdobędą wszystkie naklejki, w siedzibie Fundacji Kultury Irlandzkiej będą czekały pamiątkowe nagrody. Można je będzie odbierać do godziny 14:15. "],
+    header: "Pointmakers",
+    subheader: "aktualne grupy regularne",
+    content: "Grupy o nazwie Pointmakers to grupy skupiające się na nauce solowego tańca irlandzkiego w miękkich butach.",
+    extraInfo: ["Aktualnie żadna grupa Pointmakers nie działa. Zachęcamy śledzić informacje na naszej stronie lub Facebooku, aby być na bieżąco."],
     link: {
-      url: "https://app.evenea.pl/event/opowiesci-z-zielonej-wyspy/",
-      text: "SZCZEGÓŁY ORGANIZACYJNE I REJESTRACJA NA GRĘ - kliknij"
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - kliknij"
     }
   },  
       {
     imageFileName: "recents/recents14.jpg",
     imageFileNameDetail: "recents/recents14.jpg",
-    header: "Szmaragdowe Céilí ",
-    subheader: "19 marca 2023",
-    content: "Szmaragdowe Céilí to jeden z najlepszych sposobów na witanie wiosny! Dlatego zapraszamy Was już niebawem na coroczne radosne podskoki, energetyzujące dźwięki i wymianę uśmiechów, a nawet uścisków. Bardzo się cieszymy, że możemy się już coraz mniej dystansować. Podajemy szczegóły.",
-    extraInfo: ["📆 CZAS I MIEJSCE: 19 marca, niedziela, 17:00-21:00, Dom Tramwajarza, ul. Słowackiego 19/21.","🦸‍♀️ ORGANIZATORZY: EtnoBalans i Fundacja Kultury Irlandzkiej.", "✅ INWESTYCJA: wstęp wolny.", "🟢 DRESS CODE: Nie bójcie się być jak najbardziej zielonymi, najlepiej od stóp do głów! ", "🎶 MUZYKA: Folky Leaks", "☕️ UZUPEŁNIANIE ZASOBÓW ENERGII: Do Waszej dyspozycji bezpłatnie dostępne będzie podręczne stanowisko uzupełniania płynów z wodą oraz ciepłymi napojami. Jeżeli zapotrzebowanie na energię będzie większe, bardzo zachęcamy, aby skorzystać z usług Pana Gara, gdzie serwowane są przepyszne gruzińskie smakowitości, a także różniste napoje.", "🌱 ZERO WASTE ALERT! Jako, że podczas naszej imprezy chcemy jak najbardziej minimalizować wytwórstwo śmieci, bardzo Was prosimy o przybycie z własnym kubkiem!"],
+    header: "Céilímakers",
+    subheader: "aktualne grupy regularne",
+    content: "Grupy Céilímakers spotykają się, aby uczyć się grupowych tańców irlandzkich (céilí oraz setów). Czasem zdarzają się tutaj także wtręty z innych regionów związanych z celtycką kulturą. Na zajęciach nie brakuje dobrej zabawy, socjalizacji, integracji i ... potu :) Aktualnie prowadzimy następujące grupy:",
+    extraInfo: ["Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Warto zabrać: wygodne ciuchy i lekkie buty, wodę."],
     link: {
-      url: "https://www.facebook.com/events/786507072369622",
-      text: "WYDARZENIE NA FACEBOOKU - kliknij"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSd-2Q4bMqUheCbKKejnLmyNVP_oF8WS-z7SP1PkMiz4MZto8Q/viewform",
+      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
     }
   },
       {
-    imageFileName: "recents/recents11.jpg",
-    imageFileNameDetail: "recents/recents11.jpg",
-    header: "Taniec irlandzki",
-    subheader: "zajęcia regularne",
-    content: "Zajęcia w cyklu zimowym zaczynamy o tydzień wcześniej, niż Was informowaliśmy. Kończymy tym samym idealnie w tygodniu ze św. Patrykiem. Grupy wyglądają tak samo, jak w poprzednim cyklu:",
-    extraInfo: ["Pointmakers początkująca+/średniozaawansowana - piątki | 17:30-19:00","Céilimakers open - piątki | 19:00-21:00", "Treblemakers początkująca+/średniozaawansowana - środy | 17:30-19:00", "Szczegóły organizacyjne znajdziecie w poniższym formularzu rejestracyjnym."],
+    imageFileName: "recents/recents10.jpg",
+    imageFileNameDetail: "recents/recents10.jpg",
+    header: "Treblemakers",
+    subheader: "aktualne grupy regularne",
+    content: "Za tajemniczym słowem Treblemakers stoją grupy stepu irlandzkiego, a -treble- oznacza jeden z podstawowych kroków w stepowaniu. Aktualnie prowadzimy następujące grupy:",
+    extraInfo: ["Treblemakers dla średniozaawansowanych, czas: środy 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Warto zabrać: wygodne ciuchy, buty do stepu lub półbuty na twardej podeszwie, wodę."],
     link: {
-      url: "https://bit.ly/3vmUf4z",
-      text: "FORMULARZ - kliknij"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSd-2Q4bMqUheCbKKejnLmyNVP_oF8WS-z7SP1PkMiz4MZto8Q/viewform",
+      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
     }
   },
       {
     imageFileName: "recents/recents12.jpg",
     imageFileNameDetail: "recents/recents12.jpg",
-    header: "Z powrotem u siebie",
-    subheader: "uważny ruch | luty-maj 2023",
-    content: "Cześć, tu Magda! Choć sieć nie jest moim naturalnym miejscem na wymianę ruchową, zdecydowałam się zaproponować Wam spotkania online z tęsknoty za wspólną regularną zabawą, eksploracją i wymianą. Otwieram 2 grupy: poranną w poniedziałki oraz wieczorną w czwartki. 
-    Praktyka ruchowa, którą Wam proponuje, ma na celu wspieranie kontaktu ze sobą, a to dla każdego będzie oznaczać coś zupełnie innego. Może będzie to:",
-    extraInfo: ["stawanie się coraz bardziej autentycznymi,","patrzenie z coraz większą łagodnością na to wszystko, co nazywamy niedoskonałościami,", "odzyskanie radości z poruszania się dla samej przyjemności,", "zwiększenie siły i mobilności poprzez odpuszczanie, rozwój równowagi i ustawienia ciała,", "odpuszczenie intelektualizowania i wejście głębiej w odczuwanie,", "wolność z poruszania się na swój własny, zgodny ze sobą sposób..."],
+    header: "Taniec irlandzki od zera",
+    subheader: "intensywny kurs",
+    content: "Po imprezie Szmaragdowe Ceili sporo osób pytało nas o nowe grupy zajęciowe. Tak więc wychodzimy do Was z inicjatywą i zapraszamy serdecznie na krótki i intensywniejszy kurs tańca irlandzkiego od podstaw.",
+    extraInfo: ["6 spotkań - 12 godzin zajęć","poniedziałki, 18:00-20:00", "daty: 17,24 kwietnia oraz 8,15,22,29 maja", "miejsce zajęć: Czarny Domek w Ogrodzie Szeląg - bardzo malownicze miejsce, dające szansę na socjalizację po zajęciach, można usiąść pomiędzy drzewami, napić się lub posilić i pogadać"],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfPlVyi3cQ5evgp19XU80o0bc5YJ63BBcyanqTVsJvo7WC2rg/viewform",
+      url: "https://bit.ly/40W472V",
       text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
     }
   },
     {
-    imageFileName: "recents/recents10.jpg",
-    imageFileNameDetail: "recents/recents10.jpg",
+    imageFileName: "recents/recents11.jpg",
+    imageFileNameDetail: "recents/recents11.jpg",
     header: "Animacje taneczne",
     subheader: "na imprezy prywatne i firmowe",
-    content: "Jeśli chcesz, aby uczestnicy Twojego wydarzenia mieli szansę lepiej się poznać, roztopić pierwsze lody, łatwiej złapać nić porozumienia, spotkajmy się. Kontakt w ruchu do dźwięków muzyki na żywo potrafi działać cuda i zbliżać bez zbędnych słów.",
-    extraInfo: ["Specjalizujemy się przede wszystkim w prowadzeniu animacji w klimacie irlandzkim i szkockim (tzw. ceilidh), ale chętnie proponujemy również małe wtręty m.in. z Bretanii, Izraela, USA czy Bałkanów.","Nasze animacje sprawdzają się zarówno podczas kameralnych, jak i dużych imprez (do 200 osób). Polecamy się na wesela, urodziny, wieczory panieńskie lub kawalerskie, rocznice ślubu, zjazdy rodzinne, konferencje..."],
+    content: "Fot. WhiteWay photography. ",
+    extraInfo: ["Jeśli chcesz, aby uczestnicy Twojego wydarzenia mieli szansę lepiej się poznać, roztopić pierwsze lody, łatwiej złapać nić porozumienia, spotkajmy się. Kontakt w ruchu do dźwięków muzyki na żywo potrafi działać cuda i zbliżać bez zbędnych słów.", "Specjalizujemy się przede wszystkim w prowadzeniu animacji w klimacie irlandzkim i szkockim (tzw. ceilidh), ale chętnie proponujemy również małe wtręty m.in. z Bretanii, Izraela, USA czy Bałkanów.","Nasze animacje sprawdzają się zarówno podczas kameralnych, jak i dużych imprez (do 200 osób). Polecamy się na wesela, urodziny, wieczory panieńskie lub kawalerskie, rocznice ślubu, zjazdy rodzinne, konferencje..."],
     link: {
       url: "https://mailchi.mp/8e356b9d794e/animacjetaneczne",
       text: "SZCZEGÓŁOWA OFERTA"
