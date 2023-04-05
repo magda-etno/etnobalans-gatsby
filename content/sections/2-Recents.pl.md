@@ -4,6 +4,18 @@ header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
       {
+    imageFileName: "recents/recents12.jpg",
+    imageFileNameDetail: "recents/recents12.jpg",
+    header: "Taniec irlandzki od zera",
+    subheader: "intensywny kurs IV-V 2023",
+    content: "Po imprezie Szmaragdowe Ceili sporo osób pytało nas o nowe grupy zajęciowe. Tak więc wychodzimy do Was z inicjatywą i zapraszamy serdecznie na krótki i intensywniejszy kurs tańca irlandzkiego od podstaw.",
+    extraInfo: ["6 spotkań - 12 godzin zajęć","poniedziałki, 18:00-20:00", "daty: 17,24 kwietnia oraz 8,15,22,29 maja", "miejsce zajęć: Czarny Domek w Ogrodzie Szeląg - bardzo malownicze miejsce, dające szansę na socjalizację po zajęciach, można usiąść pomiędzy drzewami, napić się lub posilić i pogadać"],
+    link: {
+      url: "https://bit.ly/40W472V",
+      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
+    }
+  },
+      {
     imageFileName: "recents/recents13.jpg",
     imageFileNameDetail: "recents/recents13.jpg",
     header: "Pointmakers",
@@ -49,18 +61,6 @@ portfolios: [
     link: {
       url: "https://youtu.be/hcmb0qdHBII?t=206",
       text: "INSPIRACYJNE VIDEO - kliknij"
-    }
-  },
-       {
-    imageFileName: "recents/recents12.jpg",
-    imageFileNameDetail: "recents/recents12.jpg",
-    header: "Taniec irlandzki od zera",
-    subheader: "intensywny kurs",
-    content: "Po imprezie Szmaragdowe Ceili sporo osób pytało nas o nowe grupy zajęciowe. Tak więc wychodzimy do Was z inicjatywą i zapraszamy serdecznie na krótki i intensywniejszy kurs tańca irlandzkiego od podstaw.",
-    extraInfo: ["6 spotkań - 12 godzin zajęć","poniedziałki, 18:00-20:00", "daty: 17,24 kwietnia oraz 8,15,22,29 maja", "miejsce zajęć: Czarny Domek w Ogrodzie Szeląg - bardzo malownicze miejsce, dające szansę na socjalizację po zajęciach, można usiąść pomiędzy drzewami, napić się lub posilić i pogadać"],
-    link: {
-      url: "https://bit.ly/40W472V",
-      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
     }
   },
        {
