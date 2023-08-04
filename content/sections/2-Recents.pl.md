@@ -6,13 +6,13 @@ portfolios: [
       {
     imageFileName: "recents/recents12.jpg",
     imageFileNameDetail: "recents/recents12.jpg",
-    header: "Taniec irlandzki od zera",
-    subheader: "intensywny kurs IV-V 2023",
-    content: "Po imprezie Szmaragdowe Ceili sporo osób pytało nas o nowe grupy zajęciowe. Tak więc wychodzimy do Was z inicjatywą i zapraszamy serdecznie na krótki i intensywniejszy kurs tańca irlandzkiego od podstaw.",
-    extraInfo: ["6 spotkań - 12 godzin zajęć","poniedziałki, 18:00-20:00", "daty: 17,24 kwietnia oraz 8,15,22,29 maja", "miejsce zajęć: Czarny Domek w Ogrodzie Szeląg - bardzo malownicze miejsce, dające szansę na socjalizację po zajęciach, można usiąść pomiędzy drzewami, napić się lub posilić i pogadać"],
+    header: "Cytadéilí",
+    subheader: "tańce céilí w plenerze",
+    content: "Zapraszamy Was serdecznie w plenery na wspólne tańczenie!",
+    extraInfo: ["Daty spotkań:6.07, 20.07, 3.08, 17.08, 31.08","Godzina: 18:00-20:00", "Inwestycja: symboliczne 10 zł", "Punkt zbiorczy: Dzwon Pokoju i Przyjaźni Między Narodami (potem idziemy gdzieś, gdzie jest miejsce równe i nie przesadnie nasłonecznione i nie grają w quidditcha 😛)", "Warto zabrać: dużo picia, krem do opalania, coś na głowę, coś przeciw owadowego", "Po spotkaniu zawsze jest opcja pójść na socjalizację do Umberto!"],
     link: {
-      url: "https://bit.ly/40W472V",
-      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
+      url: "https://www.facebook.com/events/608241264617766/608719037903322/",
+      text: "WYDARZENIE NA FACEBOOKU - kliknij"
     }
   },
       {
@@ -20,8 +20,8 @@ portfolios: [
     imageFileNameDetail: "recents/recents13.jpg",
     header: "Pointmakers",
     subheader: "aktualne grupy regularne",
-    content: "Grupy o nazwie Pointmakers to grupy skupiające się na nauce solowego tańca irlandzkiego w miękkich butach. Tańczony na śródstopiu sprawia wrażenie bardzo lekkiego i zwiewnego. Kroki obfitują w precyzyjne pozycje stóp, podnoszenia nóg i podskoki. Taniec ten na pewno ćwiczy kondycję, wspiera elastyczność i doenergetyzowanuje.",
-    extraInfo: ["Aktualnie żadna grupa Pointmakers nie działa. Zachęcamy śledzić informacje na naszej stronie lub Facebooku, aby być na bieżąco.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    content: "Grupy o nazwie Pointmakers to grupy skupiające się na nauce solowego tańca irlandzkiego w miękkich butach. Tańczony na śródstopiu sprawia wrażenie bardzo lekkiego i zwiewnego. Kroki obfitują w precyzyjne pozycje stóp, podnoszenia nóg i podskoki. Taniec ten na pewno ćwiczy kondycję, wspiera elastyczność i doenergetyzowuje.",
+    extraInfo: ["Już niedługo pojawią się formularze zapisów na grupy cyklu jesiennego 2023. Na razie podajemy informacje organizacyjne.", "Grupa pointmakers p+/śr, czas: piątki, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Grupa pointmakers śr/zaaw, czas: środy, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
       url: "https://www.facebook.com/EtnoBalans",
       text: "FACEBOOK - kliknij"
@@ -32,11 +32,11 @@ portfolios: [
     imageFileNameDetail: "recents/recents14.jpg",
     header: "Céilímakers",
     subheader: "aktualne grupy regularne",
-    content: "Grupy Céilímakers spotykają się, aby uczyć się grupowych tańców irlandzkich (céilí oraz setów). Czasem zdarzają się tutaj także wtręty z innych regionów związanych z celtycką kulturą. Na zajęciach nie brakuje dobrej zabawy, socjalizacji, integracji i ... potu :) Aktualnie prowadzimy następujące grupy:",
-    extraInfo: ["Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    content: "Grupy Céilímakers spotykają się, aby uczyć się grupowych tańców irlandzkich (céilí oraz setów). Czasem zdarzają się tutaj także wtręty z innych regionów związanych z celtycką kulturą. Na zajęciach nie brakuje dobrej zabawy, socjalizacji, integracji i ... potu :)",
+    extraInfo: ["Wkrótce otworzymy zapisy na regularne zajęcia w cyklu jesiennym 2023. Tymczasem podajemy informacje organizacyjne.", "Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSd-2Q4bMqUheCbKKejnLmyNVP_oF8WS-z7SP1PkMiz4MZto8Q/viewform",
-      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - kliknij"
     }
   },
       {
@@ -44,11 +44,11 @@ portfolios: [
     imageFileNameDetail: "recents/recents10.jpg",
     header: "Treblemakers",
     subheader: "aktualne grupy regularne",
-    content: "Za tajemniczym słowem Treblemakers stoją grupy stepu irlandzkiego, a -treble- oznacza jeden z podstawowych kroków w stepowaniu. Nasz styl uczenia opiera się przede wszystkim na przykładaniu uwagi do rytmu i szukaniu wygody dostosowanej do własnego ciała. Tańczymy solo, ale jednocześnie, a współbrzmienie w grupie to niesamowicie budujące doświadczenie, które potrafi poruszać i budować więź. Aktualnie prowadzimy następujące grupy:",
-    extraInfo: ["Treblemakers dla średniozaawansowanych, czas: środy 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Warto zabrać: wygodne ciuchy, buty do stepu lub półbuty na twardej podeszwie, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    content: "Za tajemniczym słowem Treblemakers stoją grupy stepu irlandzkiego, a słowo treble oznacza jeden z podstawowych kroków w stepowaniu. Nasz styl uczenia opiera się przede wszystkim na przykładaniu uwagi do rytmu i szukaniu wygody dostosowanej do własnego ciała. Tańczymy solo, ale jednocześnie, a współbrzmienie w grupie to niesamowicie budujące doświadczenie, które porusza i buduje więź.",
+    extraInfo: ["W najbliższym cyklu nie planujemy regularnych zajęć grup Treblemakers. Wypatrujcie warsztatów!", "Na zajęcia warto zabrać: wygodne ciuchy, buty do stepu lub półbuty na twardej podeszwie, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSd-2Q4bMqUheCbKKejnLmyNVP_oF8WS-z7SP1PkMiz4MZto8Q/viewform",
-      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - kliknij"
     }
   },
       {
@@ -56,8 +56,8 @@ portfolios: [
     imageFileNameDetail: "recents/recents15.jpg",
     header: "Step amerykański",
     subheader: "aktualne grupy regularne",
-    content: "Stepując jesteś zarówno osobą tańczącą jak i osobą, która tworzy muzykę, a dokładniej sekcję perkusyjną. Podczas zajęć uczymy się zarówno gotowych sekwencji i choreografii, jak i improwizacji, która pozwala popłynąć naszym wewnętrznym impulsom.",
-    extraInfo: ["Grupa średniozaawansowana, poniedziałki, 14:30-15:00, miejsce: STA, Ratajczaka 18, Poznań", "Jeśli chcesz dołączyć do grupy istniejącej, napisz do nad maila: magda@etnobalans.pl", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    content: "Stepując, jesteś zarówno osobą tańczącą jak i osobą, która tworzy muzykę, a dokładniej sekcję perkusyjną. Podczas zajęć uczymy się zarówno gotowych sekwencji i choreografii, jak i improwizacji, która pozwala popłynąć naszym wewnętrznym impulsom.",
+    extraInfo: ["Obecnie nie odbywają się zajęcia żadnej regularnej grupy.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
       url: "https://youtu.be/hcmb0qdHBII?t=206",
       text: "INSPIRACYJNE VIDEO - kliknij"
