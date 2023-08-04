@@ -16,7 +16,7 @@ teamMember: [     {
      {
     imageFileName: "team/8.png",
     header: "Beata Zawichrowska",
-    subheader: "Organisational team member, instructor",
+    subheader: "EtnoCoreTeam, instructor",
     social: {
       twitter: "",
       facebook: "",
@@ -46,7 +46,7 @@ teamMember: [     {
   {
     imageFileName: "team/1.png",
     header: "Magdalena Mak-Jeszka",
-    subheader: "Organisational team member, instructor",
+    subheader: "EtnoCoreTeam, instructor",
     social: {
       twitter: "",
       facebook: "",
@@ -56,7 +56,7 @@ teamMember: [     {
   {
     imageFileName: "team/2.png",
     header: "Marta Czarnocińska",
-    subheader: "Organisational team member, instructor",
+    subheader: "EtnoCoreTeam, instructor",
     social: {
       twitter: "",
       facebook: "",
@@ -66,7 +66,7 @@ teamMember: [     {
   {
     imageFileName: "team/3.png",
     header: "Magdalena Pochrząszcz",
-    subheader: "Mission impossible graphic designer",
+    subheader: "Mission (im)possible graphic designer",
     social: {
       twitter: "",
       facebook: "",
@@ -76,7 +76,7 @@ teamMember: [     {
   {
     imageFileName: "team/9.png",
     header: "Małgorzata Maciejewska",
-    subheader: "Organisational team member, instructor",
+    subheader: "EtnoCoreTeam, instructor",
     social: {
       twitter: "",
       facebook: "",

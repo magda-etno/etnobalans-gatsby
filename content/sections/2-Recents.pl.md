@@ -21,7 +21,7 @@ portfolios: [
     header: "Pointmakers",
     subheader: "aktualne grupy regularne",
     content: "Grupy o nazwie Pointmakers to grupy skupiające się na nauce solowego tańca irlandzkiego w miękkich butach. Tańczony na śródstopiu sprawia wrażenie bardzo lekkiego i zwiewnego. Kroki obfitują w precyzyjne pozycje stóp, podnoszenia nóg i podskoki. Taniec ten na pewno ćwiczy kondycję, wspiera elastyczność i doenergetyzowuje.",
-    extraInfo: ["Już niedługo pojawią się formularze zapisów na grupy cyklu jesiennego 2023. Na razie podajemy informacje organizacyjne.", "Grupa pointmakers p+/śr, czas: piątki, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Grupa pointmakers śr/zaaw, czas: środy, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    extraInfo: ["Już niedługo pojawią się formularze zapisów na grupy cyklu jesiennego 2023. Na razie podajemy wstępne informacje organizacyjne.", "Grupa pointmakers p+/śr, czas: piątki, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Grupa pointmakers śr/zaaw, czas: środy, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
       url: "https://www.facebook.com/EtnoBalans",
       text: "FACEBOOK - kliknij"
@@ -33,7 +33,7 @@ portfolios: [
     header: "Céilímakers",
     subheader: "aktualne grupy regularne",
     content: "Grupy Céilímakers spotykają się, aby uczyć się grupowych tańców irlandzkich (céilí oraz setów). Czasem zdarzają się tutaj także wtręty z innych regionów związanych z celtycką kulturą. Na zajęciach nie brakuje dobrej zabawy, socjalizacji, integracji i ... potu :)",
-    extraInfo: ["Wkrótce otworzymy zapisy na regularne zajęcia w cyklu jesiennym 2023. Tymczasem podajemy informacje organizacyjne.", "Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    extraInfo: ["Wkrótce otworzymy zapisy na regularne zajęcia w cyklu jesiennym 2023. Na razie podajemy wstępne informacje organizacyjne.", "Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
       url: "https://www.facebook.com/EtnoBalans",
       text: "FACEBOOK - kliknij"

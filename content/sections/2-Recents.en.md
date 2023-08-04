@@ -2,66 +2,88 @@
 anchor: "Recents"
 header: "Recents"
 subheader: "Ongoing or upcoming regular activities, workshops, events, projects."
-portfolios: [
+portfolios: [      {
+    imageFileName: "recents/recents12.jpg",
+    imageFileNameDetail: "recents/recents12.jpg",
+    header: "Cytadéilí",
+    subheader: "céilí dancing in nature",
+    content: "Come and join us in dance among the trees and chirping birds in the Cytadela Park in Poznań!",
+    extraInfo: ["Dates:6.07, 20.07, 3.08, 17.08, 31.08","Time: 18:00-20:00", "Investment: 10 zł", "Meeting point: Dzwon Pokoju i Przyjaźni Między Narodami (Then we go somewhere where the place is even and not overly sunny and where people are not playing quidditch 😛)", "Remember to take: lots of liquids, sunscreen, something for your head to protect you from sun, something against insects", "After dancing we usually go and enjoy ourselves in Umberto Cafe!"],
+    link: {
+      url: "https://www.facebook.com/events/608241264617766/608719037903322/",
+      text: "FACEBOOK EVENT - click"
+    }
+  },
       {
     imageFileName: "recents/recents13.jpg",
     imageFileNameDetail: "recents/recents13.jpg",
-    header: "St. Paddy's Urban Game",
-    subheader: "18th March 2023",
-    content: "EtnoBalans and Irish Culture Foundation invite you to the event: Stories from the Emerald Isle, Poznan's first St. Patrick's Day urban game! Whole families, groups of friends as well as singles are encouraged to participate. You cannot miss this journey in search of Irish culture! The journey full of riddles, challenges and unusual encounters which leads around Poznań City Centre.",
-    extraInfo: ["Our urban game will take place on Saturday 18 March 2023 between 10:00 and 14:00.","Official free registration for the event will open on 6 March 2023 and will run until 12 March 2023.", "On Saturday 18 March 2023 at 10:00 a.m., we open the doors of the Irish Culture Foundation at Kramarska Street - where everyone starts the adventure picking up a map with clues.", "The participants' task is to visit, in any order, all the places marked on the map, solve various tasks at these places and make contact with mysterious characters from the Emerald Island. At each point you have to guess the password and collect a sticker.", "Prizes will be waiting for participants who guess the main password and get all the stickers, at the Irish Culture Foundation's headquarters. They will be available for collection until 2:20 pm."],
+    header: "Pointmakers",
+    subheader: "current regular groups",
+    content: "Groups called Pointmakers are groups that focus on learning solo Irish dancing in soft shoes. Danced on the ball of the foot, it gives the impression of being very light and airy. Steps abound with precise foot positions, leg lifts and jumps. This dance certainly exercises fitness, promotes flexibility and energizes.",
+    extraInfo: ["Enrollment forms for the groups of the 2023 fall cycle will soon appear. For now, we provide preliminary organizational information.", "Pointmakers group beg+/inter, time: Fridays, 17:30-19:00, place: STA, Ratajczaka 18, Poznań", "Pointmakers group inter/adv, time: Wednesdays, 17:30-19:00, place: STA, Ratajczaka 18, Poznań", "Good to bring for the class: comfortable clothes, light shoes, water.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
     link: {
-      url: "https://app.evenea.pl/event/opowiesci-z-zielonej-wyspy/",
-      text: "DETAILS AND REGISTRATION - click"
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - click"
     }
-  },
+  },  
       {
     imageFileName: "recents/recents14.jpg",
     imageFileNameDetail: "recents/recents14.jpg",
-    header: "Emerald Céilí ",
-    subheader: "19th March 2023",
-    content: "Emerald Céilí is one of the best ways to welcome spring! That's why we're inviting you to join us soon for our annual joyful hopping, energizing sounds and exchange of smiles and even hugs. We are very happy to be getting less and less distant. We will give you the details.",
-    extraInfo: ["📆 DATE AND PLACE: 19th March, Sunday, 17:00-21:00, Dom Tramwajarza, ul. Słowackiego 19/21.","🦸‍♀️ ORGANISERS: EtnoBalans & Fundacja Kultury Irlandzkiej.", "✅ INVESTMENT: free of change.", "🟢 DRESS CODE: Don't be afraid to be as green as possible, preferably from head to toe! ", "🎶 MUSIC: Folky Leaks", "☕️ ENERGY RECHARGING: A handy refill station with water and hot beverages will be at your disposal free of charge. If the need for energy is greater, we highly encourage you to take advantage of Mr. Gara, where delicious Georgian delicacies are served, as well as various beverages.", "🌱 ZERO WASTE ALERT! As we want to minimize trash generation as much as possible during our event, we highly request you to come with your own mug!"],
+    header: "Céilímakers",
+    subheader: "current regular groups",
+    content: "Groups of Céilímakers meet to learn group Irish dances (céilí and sets). Occasionally we propose also some incorporations from other regions associated with Celtic culture. There is always loads of fun, socialization, integration and ... sweat :)",
+    extraInfo: ["Enrollment forms for the groups of the 2023 fall cycle will soon appear. For now, we provide preliminary organizational information.", "Céilímakers group (knowledge of basic steps is necessary), time: Fridays 19:00-21:00, place: STA, Ratajczaka 18, Poznań", "Good to bring for the class: comfortable clothes, light shoes, water.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
     link: {
-      url: "https://www.facebook.com/events/786507072369622",
-      text: "EVENT ON FACEBOOK - click"
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - click"
     }
   },
-        {
-    imageFileName: "recents/recents11.jpg",
-    imageFileNameDetail: "recents/recents11.jpg",
-    header: "Irish dance",
-    subheader: "regular classes",
-    content: "We start classes in the winter series a week earlier than we informed you. We thus finish ideally in the week with St. Patrick's Day. The groups look the same as in the previous series:",
-    extraInfo: ["Pointmakers początkująca+/średniozaawansowana - Fridays | 17:30-19:00","Céilimakers open - Fridays | 19:00-21:00", "Treblemakers początkująca+/średniozaawansowana - Wednesdays | 17:30-19:00", "You will find organizational details in the registration form below."],
-    link: {
-      url: "https://bit.ly/3vmUf4z",
-      text: "FORM - click"
-    }
-  },
-          {
-    imageFileName: "recents/recents12.jpg",
-    imageFileNameDetail: "recents/recents12.jpg",
-    header: "Back to myself",
-    subheader: "mindful movement | Feb-May 2023",
-    content: "Cześć, tu Magda! Choć sieć nie jest moim naturalnym miejscem na wymianę ruchową, zdecydowałam się zaproponować Wam spotkania online z tęsknoty za wspólną regularną zabawą, eksploracją i wymianą. Otwieram 2 grupy: poranną w poniedziałki oraz wieczorną w czwartki. 
-    Praktyka ruchowa, którą Wam proponuje, ma na celu wspieranie kontaktu ze sobą, a to dla każdego będzie oznaczać coś zupełnie innego. Może będzie to:",
-    extraInfo: ["stawanie się coraz bardziej autentycznymi,","patrzenie z coraz większą łagodnością na to wszystko, co nazywamy niedoskonałościami,", "odzyskanie radości z poruszania się dla samej przyjemności,", "zwiększenie siły i mobilności poprzez odpuszczanie, rozwój równowagi i ustawienia ciała,", "odpuszczenie intelektualizowania i wejście głębiej w odczuwanie,", "wolność z poruszania się na swój własny, zgodny ze sobą sposób..."],
-    link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfPlVyi3cQ5evgp19XU80o0bc5YJ63BBcyanqTVsJvo7WC2rg/viewform",
-      text: "SZCZEGÓŁY ORGANIZACYJNE I FORMULARZ - kliknij"
-    }
-  },
-     {
+      {
     imageFileName: "recents/recents10.jpg",
     imageFileNameDetail: "recents/recents10.jpg",
+    header: "Treblemakers",
+    subheader: "current regular groups",
+    content: "Irish step groups are hidden behind the mysterious word Treblemakers, and the word treble means one of the basic steps in Irish tap dance. Our teaching style is based primarily on paying attention to the rhythm and seeking comfort adapted to one's own body. We dance solo, but at the same time, and harmonizing in a group is an incredibly uplifting experience that moves and builds connection.",
+    extraInfo: ["In the upcoming cycle we do not plan regular classes of Treblemakers groups. Look out for workshops!", "Good to bring for the class: comfortable clothes, tap shoes or half-shoes with a hard sole, water.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
+    link: {
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - click"
+    }
+  },
+      {
+    imageFileName: "recents/recents15.jpg",
+    imageFileNameDetail: "recents/recents15.jpg",
+    header: "Tap dance",
+    subheader: "current regular groups",
+    content: "When tapping, you are both a person who dances and a person who makes music, or more precisely, a percussion section. During classes, we learn both ready-made sequences and choreography, as well as improvisation, which allows our inner impulses to flow.",
+    extraInfo: ["Recently no classes are being held.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
+    link: {
+      url: "https://youtu.be/hcmb0qdHBII?t=206",
+      text: "INSPIRATIONAL VIDEO - click"
+    }
+  },
+       {
+    imageFileName: "recents/recents16.jpg",
+    imageFileNameDetail: "recents/recents16.jpg",
+    header: "Private classes",
+    subheader: "chosen technique",
+    content: "",
+    extraInfo: ["Maybe you feel too shy to learn in a group. Maybe you want to learn something very specific, such as choreography, a more difficult step or sequence. Maybe you find it difficult to fit your schedule into regular classes. Whatever your goals are, we are very open to 1:1 lessons.", "We offer such classes: all types of Irish dance, American step dancing, music and rhythm improvement classes and mindful movement.", "You can arrange the class per e-mail (magda@etnobalans.pl) or by telephone 502 582 480."],
+    link: {
+      url: "https://www.facebook.com/EtnoBalans",
+      text: "FACEBOOK - click"
+    }
+  },
+    {
+    imageFileName: "recents/recents11.jpg",
+    imageFileNameDetail: "recents/recents11.jpg",
     header: "Dance animations",
-    subheader: "for private and company events",
-    content: "If you want the participants of your event to have a chance to get to know each other better, to melt the first ice, to catch the thread of understanding more easily, let's meet. Contact in motion to the sounds of live music can work wonders and bring you closer without words.",
-    extraInfo: ["We specialize primarily in delivering animation in an Irish and Scottish climate (known as ceilidh), but we are also happy to offer small inclusions from Brittany, Israel, the USA or the Balkans, among others.","Our animations work well for both intimate and large events (up to 200 people). We recommend for weddings, birthdays, hen or stag parties, wedding anniversaries, family reunions, conferences...."],
+    subheader: "for private and business events",
+    content: "Fot. WhiteWay photography. ",
+    extraInfo: ["If you want the participants of your event to have a chance to get to know each other better, to break the ice, to catch the thread of understanding more easily, let's meet. Contact in movement to the sounds of live music can do wonders and bring people together without words.", "We specialize primarily in conducting animations with an Irish and Scottish flair (known as ceilidh), but we are also happy to offer small throw-ins from Brittany, Israel, the USA or the Balkans, among others.","Our animations work great for both intimate and large events (up to 200 people). We can be recommended for weddings, birthdays, hen or stag parties, wedding anniversaries, family reunions, conferences...."],
     link: {
       url: "https://mailchi.mp/8e356b9d794e/animacjetaneczne",
-      text: "OFFER"
+      text: "DETAILED OFFER"
     }
   },
 ]

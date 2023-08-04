@@ -17,7 +17,7 @@ teamMember: [
      {
     imageFileName: "team/8.png",
     header: "Beata Zawichrowska",
-    subheader: "Instruktorka",
+    subheader: "EtnoCoreTeam, instruktorka",
     social: {
       twitter: "",
       facebook: "",
@@ -47,7 +47,7 @@ teamMember: [
   {
     imageFileName: "team/1.png",
     header: "Magdalena Mak-Jeszka",
-    subheader: "Kierowniczka artystyczna, instruktorka",
+    subheader: "EtnoCoreTeam, instruktorka",
     social: {
       twitter: "",
       facebook: "",
@@ -57,7 +57,7 @@ teamMember: [
   {
     imageFileName: "team/2.png",
     header: "Marta Czarnocińska",
-    subheader: "Kierowniczka administracyjna, instruktorka",
+    subheader: "EtnoCoreTeam, instruktorka",
     social: {
       twitter: "",
       facebook: "",
@@ -77,7 +77,7 @@ teamMember: [
   {
     imageFileName: "team/9.png",
     header: "Małgorzata Maciejewska",
-    subheader: "Instruktorka",
+    subheader: "EtnoCoreTeam, instruktorka",
     social: {
       twitter: "",
       facebook: "",
