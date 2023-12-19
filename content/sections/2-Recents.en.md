@@ -2,27 +2,16 @@
 anchor: "Recents"
 header: "Recents"
 subheader: "Ongoing or upcoming regular activities, workshops, events, projects."
-portfolios: [      {
-    imageFileName: "recents/recents12.jpg",
-    imageFileNameDetail: "recents/recents12.jpg",
-    header: "Cytadéilí",
-    subheader: "céilí dancing in nature",
-    content: "Come and join us in dance among the trees and chirping birds in the Cytadela Park in Poznań!",
-    extraInfo: ["Dates:6.07, 20.07, 3.08, 17.08, 31.08, 7.09","Time: 17:30-19:30", "Investment: 10 zł", "Meeting point: Dzwon Pokoju i Przyjaźni Między Narodami (Then we go somewhere where the place is even and not overly sunny and where people are not playing quidditch 😛)", "Remember to take: lots of liquids, sunscreen, something for your head to protect you from sun, something against insects", "After dancing we usually go and enjoy ourselves in Umberto Cafe!"],
-    link: {
-      url: "https://www.facebook.com/events/608241264617766/608719037903322/",
-      text: "FACEBOOK EVENT - click"
-    }
-  },
+portfolios: [      
       {
     imageFileName: "recents/recents13.jpg",
     imageFileNameDetail: "recents/recents13.jpg",
     header: "Pointmakers",
     subheader: "current regular groups",
     content: "Groups called Pointmakers are groups that focus on learning solo Irish dancing in soft shoes. Danced on the ball of the foot, it gives the impression of being very light and airy. Steps abound with precise foot positions, leg lifts and jumps. This dance certainly exercises fitness, promotes flexibility and energizes.",
-    extraInfo: ["The upcoming series of classes takes place under the sign of dancing in soft shoes. We are activating up to 2 levels of soft classes.", "Pointmakers group 1, beg+/inter, time: Fridays, 17:30-19:00, place: STA, Ratajczaka 18, Poznań", "Pointmakers group 2, inter/adv, time: Wednesdays, 17:30-19:00, place: STA, Ratajczaka 18, Poznań", "Good to bring for the class: comfortable clothes, light shoes, water.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
+    extraInfo: ["The upcoming series of classes takes place under the sign of dancing in soft shoes.", "Pointmakers group 1, beg+/inter, time: Fridays, 17:30-19:00, place: STA, Ratajczaka 18, Poznań", "Pointmakers group 2, inter/adv, time: Wednesdays, 17:30-19:00, place: STA, Ratajczaka 18, Poznań", "Good to bring for the class: comfortable clothes, light shoes, water.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfXND_O3LB7VkrRvSqMjt9Iad6J6vDiegVEa2xtgttp6qdlMw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfSfA90xyxomUkOqA38i-jM1p-sc7OmJGJ9A3LHGpzxvly7VA/viewform",
       text: "DETAILS ANDS REGISTER FORM - click"
     }
   },  
@@ -34,7 +23,7 @@ portfolios: [      {
     content: "Groups of Céilímakers meet to learn group Irish dances (céilí and sets). Occasionally we propose also some incorporations from other regions associated with Celtic culture. There is always loads of fun, socialization, integration and ... sweat :)",
     extraInfo: ["Céilímakers group (knowledge of basic steps is necessary), time: Fridays 19:00-21:00, place: STA, Ratajczaka 18, Poznań", "Good to bring for the class: comfortable clothes, light shoes, water.", "If there is no group at your level, let us know that you are interested in learning. If we don't open a group in the near future, you can always take individual lessons or initiate your own group by gathering friends."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfXND_O3LB7VkrRvSqMjt9Iad6J6vDiegVEa2xtgttp6qdlMw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfSfA90xyxomUkOqA38i-jM1p-sc7OmJGJ9A3LHGpzxvly7VA/viewform",
       text: "DETAILS ANDS REGISTER FORM - click"
     }
   },
