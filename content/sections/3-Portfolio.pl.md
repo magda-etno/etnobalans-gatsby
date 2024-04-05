@@ -3,6 +3,18 @@ anchor: "Galeria"
 header: "Galeria"
 subheader: "Wybrane projekty, które tworzyliśmy i w których braliśmy udział."
 portfolios: [
+      {
+    imageFileName: "recents/recents18.jpg",
+    imageFileNameDetail: "recents/recents18.jpg",
+    header: "Boska Irlandia",
+    subheader: "gra miejska 16.03.24",
+    content: "Wyobraźcie sobie, że spędzacie wymarzony urlop w pewnej przytulnej irlandzkiej wiosce i jeden mały spacer zmienia wszystko. Zamiast cieszyć się wakacjami, napełniać brzuchy słodkimi scone'ami, aktywizować trekingiem po zielonych równinach lub relaksować się wieczorami w pubie, będziecie musieli podołać kilku wyzwaniom, aby Wasze życie wróciło do normy. Jeśli nie straszne Wam krajobrazy pola bitwy, macie celne oko, artystyczne zapędy, bystre umysły, poczucie rytmu i wiedzę rozległą niczym druidzi, na pewno poradzicie sobie doskonale!",
+    extraInfo: ["Gra miejska odbyła się w sobotę 16 marca 2024 w okolicach Starego Miasta w Poznaniu."],
+    link: {
+      url: "https://www.facebook.com/events/1041444080263144",
+      text: "WYDARZENIE NA FACEBOOKU"
+    }
+  },  
 {
     imageFileName: "portfolio/are you listening.jpg",
     imageFileNameDetail: "portfolio/are you listening.jpg",
