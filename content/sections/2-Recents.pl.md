@@ -7,7 +7,7 @@ portfolios: [
     imageFileName: "recents/recents18.jpg",
     imageFileNameDetail: "recents/recents18.jpg",
     header: "Boska Irlandia",
-    subheader: "gra miejska",
+    subheader: "gra miejska 16.03.24",
     content: "Wyobraźcie sobie, że spędzacie wymarzony urlop w pewnej przytulnej irlandzkiej wiosce i jeden mały spacer zmienia wszystko. Zamiast cieszyć się wakacjami, napełniać brzuchy słodkimi scone'ami, aktywizować trekingiem po zielonych równinach lub relaksować się wieczorami w pubie, będziecie musieli podołać kilku wyzwaniom, aby Wasze życie wróciło do normy. Jeśli nie straszne Wam krajobrazy pola bitwy, macie celne oko, artystyczne zapędy, bystre umysły, poczucie rytmu i wiedzę rozległą niczym druidzi, na pewno poradzicie sobie doskonale!",
     extraInfo: ["Gra miejska odbędzie się w sobotę 16 marca 2024 między 10:00 a 14:30 w okolicach Starego Miasta w Poznaniu.", "Rejestracja na wydarzenie będzie otwarta: 4 - 12 marca 2024.", "Udział w grze jest bezpłatny.", "Wiek uczestników: od zera do nieskończoności."],
     link: {
