@@ -3,7 +3,18 @@ anchor: "Aktualności"
 header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
-
+{
+    imageFileName: "recents/recents19.jpg",
+    imageFileNameDetail: "recents/recents19.jpg",
+    header: "Cytadeili",
+    subheader: "czyli irlandzkie w plenerach",
+    content: "Zapraszamy Was serdecznie w cztery wakacyjne czwartki w plenery na wspólne tańczenie!",
+    extraInfo: ["Daty spotkań: czwartki 11.07, 25.07, 8.08, 22.08", "Godzina: 18:00-20:00", "Inwestycja: symboliczne 10 zł", "Punkt zbiorczy: tradycyjnie Dzwon Pokoju i Przyjaźni Między Narodami"],
+    link: {
+      url: "https://www.facebook.com/events/3266080487022227/3266080497022226?ref=newsfeed",
+      text: "WYDARZENIE NA FACEBOOKU - kliknij"
+    }
+  }, 
       {
     imageFileName: "recents/recents13.jpg",
     imageFileNameDetail: "recents/recents13.jpg",
