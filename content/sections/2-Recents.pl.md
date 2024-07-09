@@ -4,6 +4,18 @@ header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
 {
+    imageFileName: "recents/recents20.jpg",
+    imageFileNameDetail: "recents/recents20.jpg",
+    header: "Warsztaty stepowania",
+    subheader: "wytup swoje emocje",
+    content: "EtnoBalans razem z Filemon Club zapraszają serdecznie na wakacyjne warsztaty stepowania. Plan jest taki, aby warsztaty stały się regularnym punktem programu. Mamy nadzieję, że zawitają do nas zarówno zupełnie nowe twarze, jak i dawno nie widziane dusze.",
+    extraInfo: ["INTRO: Stepując, jesteś zarówno osobą tańczącą jak i osobą, która tworzy muzykę, a dokładniej sekcję perkusyjną. Co oznacza podwójną przyjemność! Podczas naszych warsztatów nie zabraknie czasu na gruntowną rozgrzewkę cielesną i ćwiczenia umuzykalniające. Skupimy się jak to zwykle bywa na technice, aby poszczególne kroki i elementy stawały się integralnymi elementami języka Waszego ciała i żeby można było puszczać myślenie i płynąć razem z muzyką. A potem zgodnie z Waszymi życzeniami poświęcimy czas na choreografię lub improwizację (albo i jedno i drugie). ", "KIEDY: weekend 20-21 lipca 2024, 10:00-14:30", "POZIOMY ZAJĘĆ: Grupa A, czyli podstawy Absolutne oraz Grupa O, czyli Opanowane podstawy stepu lub/i Otwartość na doświadczenie poparta Otańczeniem w innych technikach", "MIEJSCE: Filemon Club, Os. Sobieskiego 103, Poznań", "PRZEWODNICZKA: Magdalena Mak-Jeszka"],
+    link: {
+      url: "https://shorturl.at/RQjQY",
+      text: "SZCZEGÓŁY I ZAPISY - kliknij"
+    }
+  }, 
+{
     imageFileName: "recents/recents19.jpg",
     imageFileNameDetail: "recents/recents19.jpg",
     header: "Cytadeili",
