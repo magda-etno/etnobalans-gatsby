@@ -76,30 +76,6 @@ portfolios: [
     }
   },
   {
-    imageFileName: "portfolio/bedzin.jpg",
-    imageFileNameDetail: "portfolio/bedzin.jpg",
-    header: "Celtic Music Festival in Będzin",
-    subheader: "Irish dance performance",
-    content: "The Celtic Music Festival in Bedzin has become a symbol for many, and it is here that many dancers and musicians began their adventure with the Celtic culture. We were very pleased with the invitation to the festival stage and despite the truly Irish weather, we had a great time and a lot of sunshine came into our hearts.",
-    extraInfo: ["Photos: Photopoetree"],
-    link: {
-      url: "https://www.facebook.com/media/set/?vanity=Photopoetree&set=a.1257887367656457",
-      text: "FULL GALLERY on Facebook"
-    }
-  },
-  {
-    imageFileName: "portfolio/koncert dla przyjaciol.jpg",
-    imageFileNameDetail: "koncert dla przyjaciol.jpg",
-    header: "Concert for friends",
-    subheader: "on Scena Wspólna in Poznań",
-    content: "This time we danced at a charity concert organized by the Zespół Szkół nr 1 in Poznań.",
-    extraInfo: ["Photos: Photopoetree"],
-    link: {
-      url: "https://www.facebook.com/media/set/?vanity=Photopoetree&set=a.1202505003194694",
-      text: "Zobacz galerię na FB"
-    }
-  },
-  {
     imageFileName: "portfolio/eat.jpg",
     imageFileNameDetail: "portfolio/eat.jpg",
     header: "Ethnic Dance Academy",

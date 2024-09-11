@@ -89,30 +89,6 @@ Podczas projektu narodził się klip, którym chcemy się z Wami podzielić, pok
     }
   },
   {
-    imageFileName: "portfolio/bedzin.jpg",
-    imageFileNameDetail: "portfolio/bedzin.jpg",
-    header: "Festiwal Muzyki Celtyckiej w Będzinie",
-    subheader: "pokaz tańca irlandzkiego",
-    content: "Festiwal Muzyki Celtyckiej w Będzinie dla wielu stał się symbolem i to tu właśnie wielu tancerzy i muzyków rozpoczynała swoją przygodę z kulturą celtycką. Bardzo ucieszyliśmy się z zaproszenia na scenę festiwalu i pomimo iście irlandzkiej pogody, bawiliśmy się wspaniale, a w naszych sercach zagościło dużo słońca.",
-    extraInfo: ["Zdjęcia: Photopoetree"],
-    link: {
-      url: "https://www.facebook.com/media/set/?vanity=Photopoetree&set=a.1257887367656457",
-      text: "Zobacz galerię na FB"
-    }
-  },
-  {
-    imageFileName: "portfolio/koncert dla przyjaciol.jpg",
-    imageFileNameDetail: "koncert dla przyjaciol.jpg",
-    header: "Koncert dla przyjaciół",
-    subheader: "na Scenie Wspólnej w Poznaniu",
-    content: "Tym razem zatańczyliśmy na charytatywnym koncercie organizowanym przez Zespół Szkół nr 1 w Poznaniu.",
-    extraInfo: ["Zdjęcia: Photopoetree"],
-    link: {
-      url: "https://www.facebook.com/media/set/?vanity=Photopoetree&set=a.1202505003194694",
-      text: "Zobacz galerię na FB"
-    }
-  },
-  {
     imageFileName: "portfolio/eat.jpg",
     imageFileNameDetail: "portfolio/eat.jpg",
     header: "Etniczna Akademia Tańca",

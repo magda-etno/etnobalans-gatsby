@@ -3,39 +3,15 @@ anchor: "Aktualności"
 header: "Aktualności"
 subheader: "Zapraszamy na nadchodzące zajęcia regularne, warsztaty, wydarzenia, projekty."
 portfolios: [
-{
-    imageFileName: "recents/recents20.jpg",
-    imageFileNameDetail: "recents/recents20.jpg",
-    header: "Warsztaty stepowania",
-    subheader: "wytup swoje emocje",
-    content: "EtnoBalans razem z Filemon Club zapraszają serdecznie na wakacyjne warsztaty stepowania. Plan jest taki, aby warsztaty stały się regularnym punktem programu. Mamy nadzieję, że zawitają do nas zarówno zupełnie nowe twarze, jak i dawno nie widziane dusze.",
-    extraInfo: ["INTRO: Stepując, jesteś zarówno osobą tańczącą jak i osobą, która tworzy muzykę, a dokładniej sekcję perkusyjną. Co oznacza podwójną przyjemność! Podczas naszych warsztatów nie zabraknie czasu na gruntowną rozgrzewkę cielesną i ćwiczenia umuzykalniające. Skupimy się jak to zwykle bywa na technice, aby poszczególne kroki i elementy stawały się integralnymi elementami języka Waszego ciała i żeby można było puszczać myślenie i płynąć razem z muzyką. A potem zgodnie z Waszymi życzeniami poświęcimy czas na choreografię lub improwizację (albo i jedno i drugie). ", "KIEDY: weekend 20-21 lipca 2024, 10:00-14:30", "POZIOMY ZAJĘĆ: Grupa A, czyli podstawy Absolutne oraz Grupa O, czyli Opanowane podstawy stepu lub/i Otwartość na doświadczenie poparta Otańczeniem w innych technikach", "MIEJSCE: Filemon Club, Os. Sobieskiego 103, Poznań", "PRZEWODNICZKA: Magdalena Mak-Jeszka"],
-    link: {
-      url: "https://shorturl.at/RQjQY",
-      text: "SZCZEGÓŁY I ZAPISY - kliknij"
-    }
-  }, 
-{
-    imageFileName: "recents/recents19.jpg",
-    imageFileNameDetail: "recents/recents19.jpg",
-    header: "Cytadeili",
-    subheader: "czyli irlandzkie w plenerach",
-    content: "Zapraszamy Was serdecznie w cztery wakacyjne czwartki w plenery na wspólne tańczenie!",
-    extraInfo: ["Daty spotkań: czwartki 11.07, 25.07, 8.08, 22.08", "Godzina: 18:00-20:00", "Inwestycja: symboliczne 10 zł", "Punkt zbiorczy: tradycyjnie Dzwon Pokoju i Przyjaźni Między Narodami"],
-    link: {
-      url: "https://www.facebook.com/events/3266080487022227/3266080497022226?ref=newsfeed",
-      text: "WYDARZENIE NA FACEBOOKU - kliknij"
-    }
-  }, 
       {
     imageFileName: "recents/recents13.jpg",
     imageFileNameDetail: "recents/recents13.jpg",
     header: "Pointmakers",
     subheader: "aktualne grupy regularne",
     content: "Grupy o nazwie Pointmakers to grupy skupiające się na nauce solowego tańca irlandzkiego w miękkich butach. Tańczony na śródstopiu sprawia wrażenie bardzo lekkiego i zwiewnego. Kroki obfitują w precyzyjne pozycje stóp, podnoszenia nóg i podskoki. Taniec ten na pewno ćwiczy kondycję, wspiera elastyczność i doenergetyzowuje.",
-    extraInfo: ["Grupa pointmakers 1, p+/śr, czas: piątki, 17:30-19:00, miejsce: STA, Ratajczaka 18, Poznań", "Grupa pointmakers 2 (plus Treblemakers), śr/zaaw, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    extraInfo: ["Grupa pointmakers 2 (plus Treblemakers), śr/zaaw, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfTLUcivYfwWIkttLlFtj0XpoOfM_IJrTLGh0Hb1ZVkayWuXw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfufsWPx9O4tM6j1j3ty1l6SKWa2dT6OQPqGsMwq0ZV_yMzkw/viewform",
       text: "SZCZEGÓŁY I ZAPISY - kliknij"
     }
   },  
@@ -47,7 +23,7 @@ portfolios: [
     content: "Grupy Céilímakers spotykają się, aby uczyć się grupowych tańców irlandzkich (céilí oraz setów). Czasem zdarzają się tutaj także wtręty z innych regionów związanych z celtycką kulturą. Na zajęciach nie brakuje dobrej zabawy, socjalizacji, integracji i ... potu :)",
     extraInfo: ["Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfTLUcivYfwWIkttLlFtj0XpoOfM_IJrTLGh0Hb1ZVkayWuXw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfufsWPx9O4tM6j1j3ty1l6SKWa2dT6OQPqGsMwq0ZV_yMzkw/viewform",
       text: "SZCZEGÓŁY I ZAPISY - kliknij"
     }
   },
@@ -59,7 +35,7 @@ portfolios: [
     content: "Za tajemniczym słowem Treblemakers stoją grupy stepu irlandzkiego, a słowo treble oznacza jeden z podstawowych kroków w stepowaniu. Nasz styl uczenia opiera się przede wszystkim na przykładaniu uwagi do rytmu i szukaniu wygody dostosowanej do własnego ciała. Tańczymy solo, ale jednocześnie, a współbrzmienie w grupie to niesamowicie budujące doświadczenie, które porusza i buduje więź.",
     extraInfo: ["Grupa mieszana Pointmakers 2 plus Treblemakers 2, śr/zaaw, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy, buty do stepu lub półbuty na twardej podeszwie, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfTLUcivYfwWIkttLlFtj0XpoOfM_IJrTLGh0Hb1ZVkayWuXw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSfufsWPx9O4tM6j1j3ty1l6SKWa2dT6OQPqGsMwq0ZV_yMzkw/viewform",
       text: "SZCZEGÓŁY I ZAPISY - kliknij"
     }
   },
