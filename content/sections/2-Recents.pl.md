@@ -9,9 +9,9 @@ portfolios: [
     header: "Pointmakers",
     subheader: "aktualne grupy regularne",
     content: "Grupy o nazwie Pointmakers to grupy skupiające się na nauce solowego tańca irlandzkiego w miękkich butach. Tańczony na śródstopiu sprawia wrażenie bardzo lekkiego i zwiewnego. Kroki obfitują w precyzyjne pozycje stóp, podnoszenia nóg i podskoki. Taniec ten na pewno ćwiczy kondycję, wspiera elastyczność i doenergetyzowuje.",
-    extraInfo: ["Grupa pointmakers 2 (plus Treblemakers), śr/zaaw, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    extraInfo: ["Grupa Pointmakers + Treblemakers), poziom: co najmniej początkujący+, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfufsWPx9O4tM6j1j3ty1l6SKWa2dT6OQPqGsMwq0ZV_yMzkw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdUGN7UH4WHvAk1CtS_VifMV79vzcrXx7swGTUPJBjUXyYpqg/viewform?usp=dialog",
       text: "SZCZEGÓŁY I ZAPISY - kliknij"
     }
   },  
@@ -21,9 +21,9 @@ portfolios: [
     header: "Céilímakers",
     subheader: "aktualne grupy regularne",
     content: "Grupy Céilímakers spotykają się, aby uczyć się grupowych tańców irlandzkich (céilí oraz setów). Czasem zdarzają się tutaj także wtręty z innych regionów związanych z celtycką kulturą. Na zajęciach nie brakuje dobrej zabawy, socjalizacji, integracji i ... potu :)",
-    extraInfo: ["Céilímakers dla osób znających podstawowe kroki, czas: piątki 19:00-21:00, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    extraInfo: ["Céilímakers dla całkowicie początkujących, czas: piątki 19:00-21:00, cykl: 28 marca - 9 maja 2025, miejsce: STA, Ratajczaka 18, Poznań", "Céilímakers dla roztańczonych, czas: piątki 19:00-21:00, cykl: 16 maja - 13 czerwca 2025, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy i lekkie buty, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfufsWPx9O4tM6j1j3ty1l6SKWa2dT6OQPqGsMwq0ZV_yMzkw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdUGN7UH4WHvAk1CtS_VifMV79vzcrXx7swGTUPJBjUXyYpqg/viewform?usp=dialog",
       text: "SZCZEGÓŁY I ZAPISY - kliknij"
     }
   },
@@ -33,9 +33,9 @@ portfolios: [
     header: "Treblemakers",
     subheader: "aktualne grupy regularne",
     content: "Za tajemniczym słowem Treblemakers stoją grupy stepu irlandzkiego, a słowo treble oznacza jeden z podstawowych kroków w stepowaniu. Nasz styl uczenia opiera się przede wszystkim na przykładaniu uwagi do rytmu i szukaniu wygody dostosowanej do własnego ciała. Tańczymy solo, ale jednocześnie, a współbrzmienie w grupie to niesamowicie budujące doświadczenie, które porusza i buduje więź.",
-    extraInfo: ["Grupa mieszana Pointmakers 2 plus Treblemakers 2, śr/zaaw, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy, buty do stepu lub półbuty na twardej podeszwie, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
+    extraInfo: ["Grupa Pointmakers + Treblemakers), poziom: co najmniej początkujący+, czas: środy, 17:30-19:30, miejsce: STA, Ratajczaka 18, Poznań", "Na zajęcia warto zabrać: wygodne ciuchy, buty do stepu lub półbuty na twardej podeszwie, wodę.", "Jeśli nie ma grupy na Twoim poziomie, daj nam znać, że interesuje Cię nauka. Jeśli w najbliższym czasie nie otworzymy grupy, zawsze możesz skorzystać z lekcji indywidualnych lub zainicjować własną grupę, zbierając przyjaciół."],
     link: {
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSfufsWPx9O4tM6j1j3ty1l6SKWa2dT6OQPqGsMwq0ZV_yMzkw/viewform",
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdUGN7UH4WHvAk1CtS_VifMV79vzcrXx7swGTUPJBjUXyYpqg/viewform?usp=dialog",
       text: "SZCZEGÓŁY I ZAPISY - kliknij"
     }
   },
